@@ -1,9 +1,16 @@
-fastapi
-uvicorn
-requests
-pydantic
+# Core API
+fastapi>=0.111.0,<1.0.0
+uvicorn[standard]>=0.30.0,<1.0.0
+pydantic>=2.8.0,<3.0.0
+
+# Config and HTTP clients
 python-dotenv==1.1.1
-httpx
-numpy
-scikit-learn
-gTTS
+httpx>=0.27.0,<1.0.0
+requests>=2.32.0,<3.0.0
+
+# Data and ranking utilities
+numpy>=1.26.0,<3.0.0
+scikit-learn>=1.4.0,<2.0.0
+
+# Text-to-speech for place detail audio
+gTTS>=2.5.0,<3.0.0
