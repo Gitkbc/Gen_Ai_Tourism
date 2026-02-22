@@ -1,0 +1,61 @@
+{
+  "city": "Cuttack",
+  "places": [
+    {
+      "name": "Odisha State Maritime museum",
+      "lat": 20.4789263,
+      "lng": 84.8535844,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhitarkanika Wildlife Sanctuary",
+      "lat": 20.462521,
+      "lng": 85.8961823,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "State Botanical garden",
+      "lat": 20.462521,
+      "lng": 85.8829895,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Deer Park",
+      "lat": 20.4883078,
+      "lng": 85.8829895,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Netaji museum",
+      "lat": 20.4700673,
+      "lng": 85.8619087,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dhabaleshwar Island",
+      "lat": 20.462521,
+      "lng": 85.8668001,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Barabati Fort",
+      "lat": 20.4845311,
+      "lng": 85.8829895,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

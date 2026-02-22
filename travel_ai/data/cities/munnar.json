@@ -1,0 +1,37 @@
+{
+  "city": "Munnar",
+  "places": [
+    {
+      "name": "Pothamedu View Point",
+      "lat": 9.4927482,
+      "lng": 76.3177759,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Eravikulam National Park",
+      "lat": 10.0596918,
+      "lng": 77.064076,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 125.0
+    },
+    {
+      "name": "Mattupetty Dam",
+      "lat": 10.1453912,
+      "lng": 77.0366346,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Munnar Tea Gardens",
+      "lat": 10.1063316,
+      "lng": 77.1238055,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    }
+  ]
+}

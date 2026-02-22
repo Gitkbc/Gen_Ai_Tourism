@@ -1,0 +1,29 @@
+{
+  "city": "Ahemdabad",
+  "places": [
+    {
+      "name": "Statue of Unity",
+      "lat": 10.1335031,
+      "lng": 76.6860267,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 120.0
+    },
+    {
+      "name": "Jhulta Minara",
+      "lat": 21.8380184,
+      "lng": 73.7190728,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Auto World Vintage Car Museum",
+      "lat": 23.0236789,
+      "lng": 72.5998114,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 100.0
+    }
+  ]
+}

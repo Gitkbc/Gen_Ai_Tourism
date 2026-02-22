@@ -1,0 +1,61 @@
+{
+  "city": "Hampi",
+  "places": [
+    {
+      "name": "Virupaksha Temple",
+      "lat": 12.305163,
+      "lng": 76.6551749,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Stone Chariot",
+      "lat": 15.3351333,
+      "lng": 76.4586529,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mathanga Hill",
+      "lat": 15.3316,
+      "lng": 76.4682,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shree Vijaya Vitthala Temple",
+      "lat": 15.3316387,
+      "lng": 76.4682381,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Group of monuments at Hampi",
+      "lat": 15.3423099,
+      "lng": 76.475235,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Lotus Mahal",
+      "lat": 15.3349769,
+      "lng": 76.4619233,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Ajanadri Hills",
+      "lat": 15.3202851,
+      "lng": 76.4713243,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

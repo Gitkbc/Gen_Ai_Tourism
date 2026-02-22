@@ -1,0 +1,157 @@
+{
+  "city": "Srinagar",
+  "places": [
+    {
+      "name": "Dal Lake",
+      "lat": 34.1105857,
+      "lng": 74.8682569,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "lat": 34.0789218,
+      "lng": 74.8437241,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Lal Chowk",
+      "lat": 34.0713272,
+      "lng": 74.8106242,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Badshah Chowk",
+      "lat": 34.0725231,
+      "lng": 74.8090733,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indira Gandhi Memorial Tulip Garden",
+      "lat": 34.0960382,
+      "lng": 74.8784422,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Manasabal Lake",
+      "lat": 34.2471776,
+      "lng": 74.6707823,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hazratbal Mosque",
+      "lat": 34.1289329,
+      "lng": 74.8424909,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rafting , Gondola ride at Sonmarg",
+      "lat": 34.3031616,
+      "lng": 75.293111,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Skiing in Gulmarg",
+      "lat": 34.0483704,
+      "lng": 74.3804791,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 370.0
+    },
+    {
+      "name": "Chashme Shahi Garden",
+      "lat": 34.0860292,
+      "lng": 74.8877689,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shalimar Bagh",
+      "lat": 34.1495248,
+      "lng": 74.8729246,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dachigam National Park",
+      "lat": 34.1371836,
+      "lng": 75.03775,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Betaab Valley",
+      "lat": 34.0540604,
+      "lng": 75.3638888,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Aru Valley \u0096 For daring expeditions",
+      "lat": 34.0921618,
+      "lng": 75.2632189,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sinthan top",
+      "lat": 33.5811029,
+      "lng": 75.5102349,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pari mahal",
+      "lat": 34.0811939,
+      "lng": 74.877152,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Doodh Pathri",
+      "lat": 33.8508928,
+      "lng": 74.5630486,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jamia Masjid Mosque",
+      "lat": 53.3574109,
+      "lng": -1.4819864,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chandanwari",
+      "lat": 34.0144741,
+      "lng": 75.3186241,
+      "category": "\tAdventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    }
+  ]
+}

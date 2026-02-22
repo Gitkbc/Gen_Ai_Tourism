@@ -1,0 +1,53 @@
+{
+  "city": "Bijapur",
+  "places": [
+    {
+      "name": "Fort Bijapur",
+      "lat": 16.8299689,
+      "lng": 75.7363025,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 70.0
+    },
+    {
+      "name": "Jamiya Masjid",
+      "lat": 16.8222732,
+      "lng": 75.7287785,
+      "category": "Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shivgiri Temple",
+      "lat": 16.817515,
+      "lng": 75.7563529,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bara Kaman",
+      "lat": 16.8303151,
+      "lng": 75.7182706,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gol Gumbaz museum",
+      "lat": 16.8288232,
+      "lng": 75.735884,
+      "category": "Cultural & Heritage Sites, Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gol Gumbaz",
+      "lat": 16.8302623,
+      "lng": 75.7361152,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

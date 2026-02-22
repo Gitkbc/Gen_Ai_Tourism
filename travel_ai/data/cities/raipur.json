@@ -1,0 +1,37 @@
+{
+  "city": "Raipur",
+  "places": [
+    {
+      "name": "Ambuja City Center mall",
+      "lat": 21.275629,
+      "lng": 81.687617,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Magneto mall",
+      "lat": 21.2409292,
+      "lng": 81.6841555,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ghatarani waterfalls",
+      "lat": 20.8280625,
+      "lng": 82.0598125,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jatmai Temple",
+      "lat": 20.7958875,
+      "lng": 82.0298481,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

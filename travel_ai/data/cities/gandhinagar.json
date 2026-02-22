@@ -1,0 +1,37 @@
+{
+  "city": "Gandhinagar",
+  "places": [
+    {
+      "name": "Adalaj Stepwell",
+      "lat": 20.8879899,
+      "lng": 70.4012569,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sarita Udyan",
+      "lat": 23.1667825,
+      "lng": 72.580464,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Swaminarayan Akshardham",
+      "lat": 23.2031524,
+      "lng": 72.6589384,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dandi Kutir",
+      "lat": 28.6126735,
+      "lng": 77.2772619,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

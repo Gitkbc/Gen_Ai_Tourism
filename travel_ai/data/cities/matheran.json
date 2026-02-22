@@ -1,0 +1,69 @@
+{
+  "city": "Matheran",
+  "places": [
+    {
+      "name": "Echo Point",
+      "lat": 17.9786,
+      "lng": 73.6373,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dodhani Waterfalls",
+      "lat": 18.988659,
+      "lng": 73.271179,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dodhani Waterfalls rappelling/trek",
+      "lat": 18.988659,
+      "lng": 73.271179,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 1100.0
+    },
+    {
+      "name": "Chanderi Caves trek",
+      "lat": 19.0644,
+      "lng": 73.2452,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Irshalgad Fort",
+      "lat": 18.9351142,
+      "lng": 73.23246,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Neral-Matheran Toy Train",
+      "lat": 19.0229668,
+      "lng": 73.3175272,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Kalavantin Pinnacle fortress and trek",
+      "lat": 18.9827969,
+      "lng": 73.2198064,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Ambarnath Shiv Temple",
+      "lat": 19.1825167,
+      "lng": 73.1926023,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    }
+  ]
+}

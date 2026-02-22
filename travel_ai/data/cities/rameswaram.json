@@ -1,0 +1,77 @@
+{
+  "city": "Rameswaram",
+  "places": [
+    {
+      "name": "Sea world aquarium",
+      "lat": 9.9195045,
+      "lng": 78.1212534,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rameswaram lighthouse",
+      "lat": 9.2875837,
+      "lng": 78.1193418,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kalam national memorial",
+      "lat": 9.3175826,
+      "lng": 79.3129488,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Water bird Sanctuary",
+      "lat": 9.2881317,
+      "lng": 79.3306887,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Adam's bridge",
+      "lat": 9.2875837,
+      "lng": 79.2709097,
+      "category": "Cultural & Heritage Sites",
+      "rating": 2.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ariyaman beach",
+      "lat": 9.0864914,
+      "lng": 79.3129488,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Agni teertham sacred bath",
+      "lat": 9.2968404,
+      "lng": 79.5685186,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kothandaramaswamy Temple",
+      "lat": 9.2886164,
+      "lng": 79.0680317,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ramanathaswamy Temple",
+      "lat": 9.2331475,
+      "lng": 79.3213819,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

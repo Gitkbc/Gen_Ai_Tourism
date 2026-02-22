@@ -1,0 +1,93 @@
+{
+  "city": "Madurai",
+  "places": [
+    {
+      "name": "Thiruparankundram temple",
+      "lat": 13.0826802,
+      "lng": 80.2474329,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.1,
+      "ticket_price": 27.0
+    },
+    {
+      "name": "Meghamalai",
+      "lat": 9.8821748,
+      "lng": 80.2707184,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Alagar Kovil temple",
+      "lat": 9.9395002,
+      "lng": 78.071976,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.8,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Vaigai dam",
+      "lat": 9.9252007,
+      "lng": 78.1187073,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gandhi memorial museum",
+      "lat": 10.0536633,
+      "lng": 78.1197754,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Banana market",
+      "lat": 9.9297856,
+      "lng": 77.5897123,
+      "category": "Culinary & Food Experiences, Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Jain caves",
+      "lat": 9.9211183,
+      "lng": 78.1381094,
+      "category": "Cultural & Heritage Sites, Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Thirumalai Nayak palace",
+      "lat": 9.8780384,
+      "lng": 78.1243023,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.9,
+      "ticket_price": 200.0
+    },
+    {
+      "name": "St. Mary's cathedral",
+      "lat": 9.9150904,
+      "lng": 78.0672102,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Shopping at Puthu Mandapam",
+      "lat": 9.9126199,
+      "lng": 78.1237483,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Meenakshi Amman Temple",
+      "lat": 9.9201457,
+      "lng": 78.1253966,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

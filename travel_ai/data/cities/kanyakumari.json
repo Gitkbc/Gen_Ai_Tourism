@@ -1,0 +1,85 @@
+{
+  "city": "Kanyakumari",
+  "places": [
+    {
+      "name": "Vivekananda Rock Memorial",
+      "lat": 9.2881136,
+      "lng": 79.3480474,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Thiruvalluvar Statue",
+      "lat": 8.0778853,
+      "lng": 79.3173919,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Padmanabhapuram palace",
+      "lat": 8.0778074,
+      "lng": 77.5558698,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Triveni Sangam",
+      "lat": 8.2507431,
+      "lng": 77.5540357,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sannathi Street shopping",
+      "lat": 8.0780746,
+      "lng": 77.3266987,
+      "category": "Shopping & Markets",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Courtallam falls",
+      "lat": 8.0809502,
+      "lng": 77.5508165,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vattakottai fort",
+      "lat": 8.9341102,
+      "lng": 77.5508198,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "St.Xavier Church",
+      "lat": 8.125627,
+      "lng": 77.277938,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kumari Amman temple",
+      "lat": 8.1748264,
+      "lng": 77.564996,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ooty Lake",
+      "lat": 8.0793037,
+      "lng": 77.4385005,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

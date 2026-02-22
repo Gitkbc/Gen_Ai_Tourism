@@ -1,0 +1,149 @@
+{
+  "city": "Kolkata",
+  "places": [
+    {
+      "name": "Victoria Memorial",
+      "lat": 17.4096811,
+      "lng": 78.4724344,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Howrah Bridge",
+      "lat": 22.5448082,
+      "lng": 88.3425578,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indian Museum",
+      "lat": 22.5851433,
+      "lng": 88.3468005,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Ganga aarti",
+      "lat": 22.5578858,
+      "lng": 88.3511268,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Birla Planetarium",
+      "lat": 27.40364009,
+      "lng": 83.00912405,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "St.Pauls Cathedral",
+      "lat": 22.5455141,
+      "lng": 88.3473163,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tiretti Bazaar",
+      "lat": 22.57285,
+      "lng": 88.356,
+      "category": "Shopping & Markets",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Princep Ghat",
+      "lat": 22.5739086,
+      "lng": 88.3555988,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kumartali potter's quarter",
+      "lat": 22.5552828,
+      "lng": 88.3311699,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Chamba lama",
+      "lat": 22.6000017,
+      "lng": 88.3612679,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Burra Bazaar",
+      "lat": 22.5599918,
+      "lng": 88.3531374,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "lat": 22.5817406,
+      "lng": 88.3543972,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kalighat Kali Temple",
+      "lat": 22.6549087,
+      "lng": 88.3575307,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Eden Gardens",
+      "lat": 22.5202798,
+      "lng": 88.3420877,
+      "category": "Sports & Recreation",
+      "rating": 4.1,
+      "ticket_price": 2500.0
+    },
+    {
+      "name": "Alipore Zoological Gardens",
+      "lat": 22.5646081,
+      "lng": 88.3432645,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Science City Kolkata",
+      "lat": 22.5370343,
+      "lng": 88.3316697,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Belur Math",
+      "lat": 22.5401381,
+      "lng": 88.3960564,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Marble Palace",
+      "lat": 22.6326565,
+      "lng": 88.3563815,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

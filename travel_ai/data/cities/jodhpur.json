@@ -1,0 +1,29 @@
+{
+  "city": "Jodhpur",
+  "places": [
+    {
+      "name": "Jaswant Thada",
+      "lat": 21.0105397,
+      "lng": 75.5520299,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Umaid Bhawan Palace",
+      "lat": 26.3040998,
+      "lng": 73.0253613,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Mehrangarh Fort",
+      "lat": 26.2810298,
+      "lng": 73.0473022,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 100.0
+    }
+  ]
+}

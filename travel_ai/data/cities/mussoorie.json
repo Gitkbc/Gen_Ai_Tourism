@@ -1,0 +1,117 @@
+{
+  "city": "Mussoorie",
+  "places": [
+    {
+      "name": "Kempty Falls",
+      "lat": 30.4878,
+      "lng": 78.0367,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 15.0
+    },
+    {
+      "name": "Camel's back road",
+      "lat": 30.4603685,
+      "lng": 78.0728065,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jabarkhet nature reserve",
+      "lat": 30.4542004,
+      "lng": 78.1160948,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhadraj Temple trek",
+      "lat": 30.4792968,
+      "lng": 77.9536697,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Har ki dun trek",
+      "lat": 31.1505598,
+      "lng": 78.4290807,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.1,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Dodital trek",
+      "lat": 30.8429257,
+      "lng": 78.4685557,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 12500.0
+    },
+    {
+      "name": "Walking towards the Happy Valley from Library Head",
+      "lat": 30.4597892,
+      "lng": 78.0643723,
+      "category": "Sightseeing & Exploration",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Skywalk ,zipswings in Mussoorie",
+      "lat": 30.4597892,
+      "lng": 78.0643723,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Disco Skating Rink",
+      "lat": 30.4565771,
+      "lng": 78.0803029,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.6,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Library Bazaar",
+      "lat": 30.4602549,
+      "lng": 78.063945,
+      "category": "Shopping & Markets",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kulri Bazaar",
+      "lat": 30.4554364,
+      "lng": 78.0788535,
+      "category": "Shopping & Markets",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mall road",
+      "lat": 30.459821,
+      "lng": 78.0645353,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mussoorie lake",
+      "lat": 30.4597892,
+      "lng": 78.0643723,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Classic Emporium",
+      "lat": 30.4556286,
+      "lng": 78.0783262,
+      "category": "Shopping & Markets, Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 100.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "city": "Nashik",
+  "places": [
+    {
+      "name": "Trimbakeshwar Jyotirling Mandir",
+      "lat": 19.9322605,
+      "lng": 73.5307877,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pandav Leni caves",
+      "lat": 19.9412114,
+      "lng": 73.748555,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "city": "Kanpur",
+  "places": [
+    {
+      "name": "Allen Forest Zoo",
+      "lat": 26.5028694,
+      "lng": 80.3031232,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ram Janki Mandir",
+      "lat": 26.449923,
+      "lng": 80.3318736,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sisamau Bazaar",
+      "lat": 26.4686173,
+      "lng": 80.3247923,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kanpur Sangrahalaya museum",
+      "lat": 26.4715334,
+      "lng": 80.3610849,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 5.0
+    },
+    {
+      "name": "Becon Ganj",
+      "lat": 26.4679038,
+      "lng": 80.3411542,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKON temple",
+      "lat": 26.5392422,
+      "lng": 80.2618033,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jain Glass Temple",
+      "lat": 26.4672925,
+      "lng": 80.352937,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Valmiki Ashram temple",
+      "lat": 26.5969791,
+      "lng": 80.2709045,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "PPN market",
+      "lat": 26.4748119,
+      "lng": 80.3434167,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Moti Mall",
+      "lat": 26.4812268,
+      "lng": 80.2999996,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "sweets at Civil Lines",
+      "lat": 26.4750346,
+      "lng": 80.3532749,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Z-Square mall",
+      "lat": 26.4732721,
+      "lng": 80.352673,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

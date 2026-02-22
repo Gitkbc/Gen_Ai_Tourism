@@ -1,0 +1,101 @@
+{
+  "city": "Agra",
+  "places": [
+    {
+      "name": "Taj Mahal",
+      "lat": 27.1751448,
+      "lng": 78.0421422,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Agra fort",
+      "lat": 27.1795328,
+      "lng": 78.021112,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "lat": 27.0945291,
+      "lng": 77.6679292,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jahangir Mahal",
+      "lat": 27.1777367,
+      "lng": 78.0231589,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Jama Masjid",
+      "lat": 28.6506792,
+      "lng": 77.2334421,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Humayun's Mosque",
+      "lat": 27.1824852,
+      "lng": 78.0393755,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kinari bazar",
+      "lat": 28.6549795,
+      "lng": 77.2308333,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sadar bazaar",
+      "lat": 28.6585105,
+      "lng": 77.2127305,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shah market",
+      "lat": 27.2044073,
+      "lng": 78.0053732,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "TDI mall",
+      "lat": 28.6508395,
+      "lng": 77.1206205,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Subhash bazzar",
+      "lat": 28.9764772,
+      "lng": 77.7063965,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sheesh Mahal",
+      "lat": 31.5899396,
+      "lng": 74.3131807,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.0,
+      "ticket_price": 10.0
+    }
+  ]
+}

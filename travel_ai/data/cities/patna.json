@@ -1,0 +1,53 @@
+{
+  "city": "Patna",
+  "places": [
+    {
+      "name": "Patna museum",
+      "lat": 25.612727,
+      "lng": 85.1332734,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Buddha memorial park",
+      "lat": 25.9644427,
+      "lng": 85.2722472,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Srikrishna science centre",
+      "lat": 25.6164189,
+      "lng": 85.1411084,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sanjay Gandhi Biological Park",
+      "lat": 25.5997345,
+      "lng": 85.0971767,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.94,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Takhat Shri Harimandir Ji Patna Sahib",
+      "lat": 25.5960503,
+      "lng": 85.2299561,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Budhha Smriti Park",
+      "lat": 25.6067139,
+      "lng": 85.1361502,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    }
+  ]
+}

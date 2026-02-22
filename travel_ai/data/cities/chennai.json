@@ -1,0 +1,125 @@
+{
+  "city": "Chennai",
+  "places": [
+    {
+      "name": "Marina Beach",
+      "lat": 13.0499526,
+      "lng": 87.0406081,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahabalipuram",
+      "lat": 12.6207821,
+      "lng": 80.2824026,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Water activities at Muttukadu",
+      "lat": 12.8270232,
+      "lng": 80.1944915,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 130.0
+    },
+    {
+      "name": "Queensland amusement park",
+      "lat": 13.0300355,
+      "lng": 80.240321,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 5.0,
+      "ticket_price": 550.0
+    },
+    {
+      "name": "Pondy bazaar",
+      "lat": 13.0398891,
+      "lng": 80.0276134,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Birla Planetarium",
+      "lat": 22.5455141,
+      "lng": 80.2368745,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 45.0
+    },
+    {
+      "name": "National Art gallery",
+      "lat": 13.0696912,
+      "lng": 88.3473163,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.2,
+      "ticket_price": 15.0
+    },
+    {
+      "name": "Ubbalamadugu falls",
+      "lat": 13.6041974,
+      "lng": 80.2561119,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pulicat lake",
+      "lat": 13.0826802,
+      "lng": 79.84384101,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Barracuda bay(fishing)",
+      "lat": 13.0826802,
+      "lng": 80.2707184,
+      "category": "Adventure & Outdoor Activities, Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Scuba diving at Covelong beach",
+      "lat": 12.7870019,
+      "lng": 80.2707184,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 6000.0
+    },
+    {
+      "name": "Adventure sports at Covelong beach",
+      "lat": 12.7870019,
+      "lng": 80.2504447,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.9,
+      "ticket_price": 2000.0
+    },
+    {
+      "name": "Arignar Anna Zoological park",
+      "lat": 12.8797685,
+      "lng": 80.2504447,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Dakshinachitra museum",
+      "lat": 13.0038421,
+      "lng": 80.0808294,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.9,
+      "ticket_price": 110.0
+    },
+    {
+      "name": "MGR Film city",
+      "lat": 12.991932,
+      "lng": 80.2704729,
+      "category": "\tArts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 600.0
+    }
+  ]
+}

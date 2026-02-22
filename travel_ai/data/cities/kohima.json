@@ -1,0 +1,45 @@
+{
+  "city": "Kohima",
+  "places": [
+    {
+      "name": "Mt Japfu",
+      "lat": 25.5975011,
+      "lng": 94.0666664,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Naga keeda bazaar",
+      "lat": 26.1584354,
+      "lng": 94.5624426,
+      "category": "Shopping & Markets",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Touphema village",
+      "lat": 25.8455682,
+      "lng": 94.1769749,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Camping by Kohima mountains",
+      "lat": 25.6751129,
+      "lng": 94.1085998,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ntangki national park",
+      "lat": 25.5496528,
+      "lng": 93.5205641,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "city": "Kannur",
+  "places": [
+    {
+      "name": "Muzhappilangad Beach",
+      "lat": 11.6716011,
+      "lng": 76.3686564,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Parassini Madappura Sree Muthappan Temple",
+      "lat": 11.7932037,
+      "lng": 75.4441073,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "St. Angelo Fort",
+      "lat": 11.9824702,
+      "lng": 75.402109,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 20.0
+    }
+  ]
+}

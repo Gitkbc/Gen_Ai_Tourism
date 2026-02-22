@@ -1,0 +1,53 @@
+{
+  "city": "Kedarnath",
+  "places": [
+    {
+      "name": "Kedarnath",
+      "lat": 30.7346267,
+      "lng": 79.0668943,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Adi Shankaracharya Samadhi",
+      "lat": 30.7361239,
+      "lng": 79.0663642,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhairavnath temple",
+      "lat": 30.066753,
+      "lng": 79.0192997,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trekking to Vasuki Tal",
+      "lat": 30.9070387,
+      "lng": 79.1716516,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sonprayag",
+      "lat": 30.6325757,
+      "lng": 78.9952754,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chorabari lake",
+      "lat": 30.066753,
+      "lng": 79.0192997,
+      "category": "\tNatural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

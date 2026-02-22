@@ -1,0 +1,61 @@
+{
+  "city": "Chandigarh",
+  "places": [
+    {
+      "name": "Japanese Garden",
+      "lat": 31.6048388,
+      "lng": 74.5740775,
+      "category": "Cultural & Heritage Sites, Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sector 17 Market",
+      "lat": 30.7395,
+      "lng": 76.7825,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKON temple",
+      "lat": 30.739471,
+      "lng": 76.7825333,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Terraced garden",
+      "lat": 30.7144,
+      "lng": 76.7716,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Government museum & Art gallery",
+      "lat": 30.445473,
+      "lng": 76.471285,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Sukhna Lake",
+      "lat": 13.0716298,
+      "lng": 80.2567955,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rock Garden",
+      "lat": 30.7421379,
+      "lng": 76.8187557,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 30.0
+    }
+  ]
+}

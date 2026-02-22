@@ -1,0 +1,13 @@
+{
+  "city": "Thiruvananthapuram",
+  "places": [
+    {
+      "name": "Padmanabhaswamy Temple",
+      "lat": 8.5089657,
+      "lng": 76.955072,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

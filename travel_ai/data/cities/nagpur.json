@@ -1,0 +1,69 @@
+{
+  "city": "Nagpur",
+  "places": [
+    {
+      "name": "Umred Karhandla Wildlife Sanctuary",
+      "lat": 20.8286613,
+      "lng": 79.5932651,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 150.0
+    },
+    {
+      "name": "Tadoba Andhari Tiger Project",
+      "lat": 20.2717885,
+      "lng": 79.3875706,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Khindsi Lake water sports",
+      "lat": 21.404032,
+      "lng": 79.3634517,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khindsi Lake",
+      "lat": 21.404032,
+      "lng": 79.3634517,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ambazari Lake & Garden",
+      "lat": 21.1292572,
+      "lng": 79.0489685,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Raman Science Centre",
+      "lat": 21.1459008,
+      "lng": 79.0941262,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 15.0
+    },
+    {
+      "name": "Krazy Castle Aqua Park",
+      "lat": 21.1282952,
+      "lng": 79.0462212,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 490.0
+    },
+    {
+      "name": "Deekshabhoomi",
+      "lat": 21.128056,
+      "lng": 79.066944,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

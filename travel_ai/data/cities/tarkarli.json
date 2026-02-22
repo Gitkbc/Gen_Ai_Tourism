@@ -1,0 +1,13 @@
+{
+  "city": "Tarkarli",
+  "places": [
+    {
+      "name": "Tarkarli Beach",
+      "lat": 16.0136864,
+      "lng": 73.4898334,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

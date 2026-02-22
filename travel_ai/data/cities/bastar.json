@@ -1,0 +1,45 @@
+{
+  "city": "Bastar",
+  "places": [
+    {
+      "name": "Chitrakote Falls",
+      "lat": 19.2071733,
+      "lng": 81.7000604,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tirathgarh waterfalls",
+      "lat": 18.9139499,
+      "lng": 81.8651088,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kanger Ghati national park",
+      "lat": 18.77866,
+      "lng": 81.9971108,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Kotumsar caves",
+      "lat": 18.9066382,
+      "lng": 81.9050496,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Anthropological museum",
+      "lat": 21.2786567,
+      "lng": 81.8661442,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

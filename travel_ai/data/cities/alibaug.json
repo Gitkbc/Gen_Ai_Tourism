@@ -1,0 +1,29 @@
+{
+  "city": "Alibaug",
+  "places": [
+    {
+      "name": "Water Sports in Alibaug",
+      "lat": 18.6583989,
+      "lng": 72.8773346,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kolaba Fort",
+      "lat": 18.6342019,
+      "lng": 72.8644532,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Alibaug Beach",
+      "lat": 18.6391422,
+      "lng": 72.8720214,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    }
+  ]
+}

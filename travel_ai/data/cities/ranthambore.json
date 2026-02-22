@@ -1,0 +1,29 @@
+{
+  "city": "Ranthambore",
+  "places": [
+    {
+      "name": "Trinetra Ganesh Temple",
+      "lat": 26.9124555,
+      "lng": 70.9126093,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ranthambore Fort",
+      "lat": 26.0174913,
+      "lng": 76.4532362,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ranthambore National Park",
+      "lat": 26.0207552,
+      "lng": 76.4549695,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 500.0
+    }
+  ]
+}

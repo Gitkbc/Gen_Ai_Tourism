@@ -1,0 +1,29 @@
+{
+  "city": "Ratnagiri",
+  "places": [
+    {
+      "name": "Jaigad Fort",
+      "lat": 17.300493,
+      "lng": 73.221612,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tilak Ali Museum",
+      "lat": 16.9952987,
+      "lng": 73.2904689,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ganapatipule Temple",
+      "lat": 17.1449566,
+      "lng": 73.2662143,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

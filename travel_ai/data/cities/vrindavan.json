@@ -1,0 +1,45 @@
+{
+  "city": "Vrindavan",
+  "places": [
+    {
+      "name": "Govind Devji Temple",
+      "lat": 26.9288341,
+      "lng": 75.8240701,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nidhivan",
+      "lat": 27.5842125,
+      "lng": 77.6979595,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Prem Mandir",
+      "lat": 27.5718524,
+      "lng": 77.6720096,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKCON temple.",
+      "lat": 27.5621036,
+      "lng": 77.6324313,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Banke Bihari Temple",
+      "lat": 27.580148,
+      "lng": 77.7010816,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

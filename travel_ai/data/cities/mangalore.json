@@ -1,0 +1,53 @@
+{
+  "city": "Mangalore",
+  "places": [
+    {
+      "name": "Kadri Park",
+      "lat": 12.8889802,
+      "lng": 74.8562231,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "City Center mall",
+      "lat": 12.8713,
+      "lng": 74.8428,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kukke Shree Subrahmanya Temple",
+      "lat": 12.6636275,
+      "lng": 75.6158479,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dharmasthala Temple",
+      "lat": 12.9503818,
+      "lng": 75.3804923,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pilikula Nisargadhama zoo",
+      "lat": 12.9272855,
+      "lng": 74.8991256,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 80.0
+    },
+    {
+      "name": "Panambur Beach",
+      "lat": 12.9530213,
+      "lng": 74.8011783,
+      "category": "\tNatural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

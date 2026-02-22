@@ -1,0 +1,109 @@
+{
+  "city": "Uttarkashi",
+  "places": [
+    {
+      "name": "Gangotri Temple",
+      "lat": 30.9944091,
+      "lng": 78.9411825,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Yamunotri",
+      "lat": 31.0139859,
+      "lng": 78.4599555,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kedar Tal",
+      "lat": 30.9098968,
+      "lng": 78.9581673,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Harsil",
+      "lat": 31.0383069,
+      "lng": 78.7377016,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jalmanga Shivling",
+      "lat": 30.876944,
+      "lng": 79.065556,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vishwanath temple",
+      "lat": 30.7288877,
+      "lng": 78.4413948,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gaumukh glacier",
+      "lat": 30.8712743,
+      "lng": 79.1015736,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nachiketa lake",
+      "lat": 30.6447151,
+      "lng": 78.4708143,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nehru Institute of Mountaineering",
+      "lat": 30.7213645,
+      "lng": 78.4330598,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 70.0
+    },
+    {
+      "name": "Dayara Bugyal  trekking and camping",
+      "lat": 30.7311363,
+      "lng": 78.4438565,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shakti temple",
+      "lat": 30.7289819,
+      "lng": 78.4416864,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dodital lake",
+      "lat": 30.8980456,
+      "lng": 78.5249391,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Maneri dam",
+      "lat": 30.739167,
+      "lng": 78.528611,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

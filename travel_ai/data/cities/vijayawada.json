@@ -1,0 +1,69 @@
+{
+  "city": "Vijayawada",
+  "places": [
+    {
+      "name": "Kanaka Durga Temple",
+      "lat": 16.5154055,
+      "lng": 80.605864,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Undavalli caves",
+      "lat": 16.4971412,
+      "lng": 80.5821896,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhavani island",
+      "lat": 16.523107,
+      "lng": 80.5730084,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kondapalli Fort",
+      "lat": 16.6254258,
+      "lng": 80.5306487,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Shopping at Besant road",
+      "lat": 16.5107307,
+      "lng": 80.6265836,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bapu museum",
+      "lat": 16.5076521,
+      "lng": 80.6277072,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mogalarajapuram caves",
+      "lat": 16.5059513,
+      "lng": 80.6451779,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Kalanikethan",
+      "lat": 15.9128998,
+      "lng": 79.7399875,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "city": "Chikmanglur",
+  "places": [
+    {
+      "name": "Bhadra wildlife sanctuary",
+      "lat": 11.9661026,
+      "lng": 75.9833292,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Shri Jagadguru Shankaracharya Peeta",
+      "lat": 13.6948738,
+      "lng": 75.635227,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shri Annapurneshwari Devi Temple",
+      "lat": 13.4167132,
+      "lng": 75.2521434,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sri Sharadamba Temple",
+      "lat": 9.8121201,
+      "lng": 77.1747471,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kallathigiri Falls",
+      "lat": 13.4161397,
+      "lng": 75.2512712,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Baba Budan Giri hills",
+      "lat": 13.5486112,
+      "lng": 75.7891482,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

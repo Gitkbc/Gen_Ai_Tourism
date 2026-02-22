@@ -1,0 +1,53 @@
+{
+  "city": "Bhopal",
+  "places": [
+    {
+      "name": "Sanchi Stupa",
+      "lat": 23.4873393,
+      "lng": 77.7418238,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Bhimbetka rock shelters",
+      "lat": 22.9395461,
+      "lng": 77.6124331,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Bhojeshwar Mahadev temple",
+      "lat": 23.1002597,
+      "lng": 77.5795329,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Van Vihar National park",
+      "lat": 23.232214,
+      "lng": 77.3664318,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "DB City Mall",
+      "lat": 23.232698,
+      "lng": 77.4298564,
+      "category": "Shopping & Markets",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tribal museum",
+      "lat": 23.23468,
+      "lng": 23.145,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 20.0
+    }
+  ]
+}

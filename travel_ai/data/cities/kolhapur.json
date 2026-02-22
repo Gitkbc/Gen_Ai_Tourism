@@ -1,0 +1,29 @@
+{
+  "city": "Kolhapur",
+  "places": [
+    {
+      "name": "Chhatrapati Shahu Palace",
+      "lat": 16.7193627,
+      "lng": 74.231735,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Dajipur Wildlife Sanctuary",
+      "lat": 16.3837902,
+      "lng": 73.8633999,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Shri Ambabai Temple",
+      "lat": 16.416,
+      "lng": 74.135999,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

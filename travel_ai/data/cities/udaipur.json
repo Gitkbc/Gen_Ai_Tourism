@@ -1,0 +1,77 @@
+{
+  "city": "Udaipur",
+  "places": [
+    {
+      "name": "Lake Pichola",
+      "lat": 26.9240458,
+      "lng": 75.8267144,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jagdish Temple",
+      "lat": 24.572,
+      "lng": 73.679,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ambrai Ghat",
+      "lat": 24.5796536,
+      "lng": 73.6836153,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Saheliyon ki Bari",
+      "lat": 24.5775547,
+      "lng": 73.6799021,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Sajjangarh Monsoon Palace",
+      "lat": 24.6030064,
+      "lng": 73.6854901,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 110.0
+    },
+    {
+      "name": "Bagore ki Haveli",
+      "lat": 24.5931853,
+      "lng": 73.6396056,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Karni Mata Temple",
+      "lat": 24.5800483,
+      "lng": 73.6822576,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "City Palace",
+      "lat": 27.7909349,
+      "lng": 73.3408256,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 300.0
+    },
+    {
+      "name": "Lake Pichola",
+      "lat": 26.9816052,
+      "lng": 75.8447917,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "city": "Namchi",
+  "places": [
+    {
+      "name": "Char Dham",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tendong Hill & Biodiversity park",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Doling Gompa",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ngadak monastery",
+      "lat": 27.1732407,
+      "lng": 88.3706278,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Maenam Wildlife sanctuary",
+      "lat": 27.3239572,
+      "lng": 88.3799727,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 400.0
+    },
+    {
+      "name": "Samdruptse Hill",
+      "lat": 27.1799743,
+      "lng": 88.3796775,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

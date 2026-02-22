@@ -1,0 +1,45 @@
+{
+  "city": "Kozhikode",
+  "places": [
+    {
+      "name": "HiLITE mall",
+      "lat": 8.4827779,
+      "lng": 76.9435906,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mittayi Theravu -SM Street",
+      "lat": 11.2486583,
+      "lng": 75.833473,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tali Maha Shiva Kshetram",
+      "lat": 11.2507622,
+      "lng": 75.7815607,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sargaalaya Kerala Arts& Crafts village",
+      "lat": 11.2479375,
+      "lng": 75.7875625,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Kozhikode Beach",
+      "lat": 11.5601151,
+      "lng": 75.6058617,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "city": "Somnath",
+  "places": [
+    {
+      "name": "Somnath Beach",
+      "lat": 22.2935993,
+      "lng": 73.1919074,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Somnath Temple",
+      "lat": 20.8841837,
+      "lng": 70.405855,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

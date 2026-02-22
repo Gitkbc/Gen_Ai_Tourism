@@ -1,0 +1,29 @@
+{
+  "city": "Yercaud",
+  "places": [
+    {
+      "name": "Yercaud Lake",
+      "lat": 11.7841423,
+      "lng": 78.2102296,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Grange Treetop Adventure",
+      "lat": 11.7776437,
+      "lng": 78.2208538,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "The Oak trails",
+      "lat": 11.7865552,
+      "lng": 78.2036325,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 200.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "city": "Bhuj",
+  "places": [
+    {
+      "name": "Aina Mahal Palace",
+      "lat": 21.0842848,
+      "lng": 70.7944414,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Bhuj Mandir",
+      "lat": 23.2553595,
+      "lng": 69.6685614,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chhatardi Bhuj",
+      "lat": 23.2419997,
+      "lng": 69.6669324,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vande Mataram Memorial",
+      "lat": 23.2457731,
+      "lng": 69.6581727,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "White Desert",
+      "lat": 23.2187507,
+      "lng": 69.73645,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

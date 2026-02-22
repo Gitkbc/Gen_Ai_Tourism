@@ -1,0 +1,37 @@
+{
+  "city": "Junagadh",
+  "places": [
+    {
+      "name": "Mahabat Maqbara Palace",
+      "lat": 22.2371082,
+      "lng": 68.9676255,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Uparkot Fort",
+      "lat": 21.5275733,
+      "lng": 70.4599927,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 5.0
+    },
+    {
+      "name": "Sakkarbaug Zoological Park",
+      "lat": 21.5247475,
+      "lng": 70.4700532,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Gir National Park",
+      "lat": 21.5418892,
+      "lng": 70.4646275,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 3500.0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": "Aligarh",
+  "places": [
+    {
+      "name": "Aligarh Fort",
+      "lat": 27.9305608,
+      "lng": 78.0630535,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Aligarh's clock tower",
+      "lat": 27.8955566,
+      "lng": 78.0739677,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chacha Nehru Gyan Pushp museum",
+      "lat": 27.9112617,
+      "lng": 78.0673061,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.6,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Rajmangal Publishers",
+      "lat": 27.9088506,
+      "lng": 78.1070889,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Maulana Azad Library",
+      "lat": 27.9119918,
+      "lng": 78.0751391,
+      "category": "Cultural & Heritage Sites, Arts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jama Masjid",
+      "lat": 27.9074375,
+      "lng": 78.0721875,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khereshwar Temple",
+      "lat": 27.8974327,
+      "lng": 78.0880665,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Naqvi Park",
+      "lat": 27.9025224,
+      "lng": 78.0735455,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sky High sky-diving drop zone",
+      "lat": 27.8973944,
+      "lng": 78.0880129,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

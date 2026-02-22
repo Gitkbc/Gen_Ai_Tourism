@@ -1,0 +1,37 @@
+{
+  "city": "Khajuraho",
+  "places": [
+    {
+      "name": "Khajuraho Group of Monuments",
+      "lat": 24.8318452,
+      "lng": 79.9198549,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Kamasutra temples",
+      "lat": 24.512485,
+      "lng": 79.567993,
+      "category": "Cultural & Heritage Sites",
+      "rating": 5.0,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Raneh waterfall",
+      "lat": 24.8748466,
+      "lng": 80.0512626,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Panna Tiger Reserve",
+      "lat": 24.5904659,
+      "lng": 79.9416518,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 1000.0
+    }
+  ]
+}

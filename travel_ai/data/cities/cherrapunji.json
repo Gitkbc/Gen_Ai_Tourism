@@ -1,0 +1,77 @@
+{
+  "city": "Cherrapunji",
+  "places": [
+    {
+      "name": "Dawki lake",
+      "lat": 25.1840249,
+      "lng": 92.0248701,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 750.0
+    },
+    {
+      "name": "Thangkharang park",
+      "lat": 25.2167071,
+      "lng": 91.7240776,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mawkdok Dympep valley",
+      "lat": 25.411798,
+      "lng": 91.79084,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mawsmai cave-Longest cave systems in India",
+      "lat": 25.2445707,
+      "lng": 91.7240877,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mawlynnong village",
+      "lat": 25.2017637,
+      "lng": 91.9160305,
+      "category": "Cultural & Heritage Sites, Sightseeing & Exploration\t",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mawsmai Eco park and falls",
+      "lat": 25.2457155,
+      "lng": 91.7375719,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mawmluh caves",
+      "lat": 25.2539985,
+      "lng": 91.7130622,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nohkalikai watterfalls",
+      "lat": 25.2754719,
+      "lng": 91.68616774,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Living Root Bridge",
+      "lat": 25.4670308,
+      "lng": 91.366216,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "city": "Nainital",
+  "places": [
+    {
+      "name": "Naini Lake",
+      "lat": 29.3868622,
+      "lng": 79.459841,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunrise at Tiffin top",
+      "lat": 29.3836288,
+      "lng": 79.4505608,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shop at Tibetan  market",
+      "lat": 29.3893,
+      "lng": 79.4539,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Corbett National Park",
+      "lat": 29.5521551,
+      "lng": 78.8832107,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 560.0
+    },
+    {
+      "name": "Cave garden",
+      "lat": 29.39215,
+      "lng": 79.44534,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Nainital zoo",
+      "lat": 29.3807621,
+      "lng": 79.4686432,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Shop at Mall road",
+      "lat": 29.387912,
+      "lng": 79.42225,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Naina Devi temple",
+      "lat": 31.3064166,
+      "lng": 76.5358173,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pangot and Kilbury bird sanctuary",
+      "lat": 29.4183001,
+      "lng": 79.4465006,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Raj Bhawan Royal Palace",
+      "lat": 29.3742,
+      "lng": 79.4571,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 450.0
+    },
+    {
+      "name": "Cheena peak",
+      "lat": 29.4082133,
+      "lng": 79.4376161,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nainital ropeway",
+      "lat": 29.3925989,
+      "lng": 79.4551239,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 54.0
+    }
+  ]
+}

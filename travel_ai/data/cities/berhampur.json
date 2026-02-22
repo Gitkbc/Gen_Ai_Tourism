@@ -1,0 +1,53 @@
+{
+  "city": "Berhampur",
+  "places": [
+    {
+      "name": "Khasada waterfall",
+      "lat": 19.2558881,
+      "lng": 83.9811665,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Aryapalli beach",
+      "lat": 19.3149618,
+      "lng": 84.2332104,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bada bazaar",
+      "lat": 19.3149618,
+      "lng": 84.7940911,
+      "category": "Shopping & Markets",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sana bazaar",
+      "lat": 19.3156111,
+      "lng": 84.7940911,
+      "category": "Shopping & Markets",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gopalpur Beach",
+      "lat": 19.3149618,
+      "lng": 84.780999,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tara Tarini Temple",
+      "lat": 19.3149618,
+      "lng": 84.7940911,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "city": "Agartala",
+  "places": [
+    {
+      "name": "Raima valley",
+      "lat": 23.5638643,
+      "lng": 91.6760691,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Buddha temple",
+      "lat": 23.5638643,
+      "lng": 91.6760691,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Neermahal",
+      "lat": 23.5064408,
+      "lng": 91.3150341,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gondacherra wildlife sanctuary",
+      "lat": 23.5638643,
+      "lng": 91.6760691,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Ummaneshwar temple",
+      "lat": 23.8376106,
+      "lng": 91.2817995,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chittagong hills",
+      "lat": 23.5638643,
+      "lng": 91.6760691,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sepahijala wildlife sanctuary",
+      "lat": 23.6148176,
+      "lng": 91.3276422,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 300.0
+    },
+    {
+      "name": "Ujjayanta Palace",
+      "lat": 23.8373503,
+      "lng": 91.2827128,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 40.0
+    }
+  ]
+}

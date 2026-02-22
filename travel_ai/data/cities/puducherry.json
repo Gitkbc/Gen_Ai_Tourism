@@ -1,0 +1,101 @@
+{
+  "city": "Puducherry",
+  "places": [
+    {
+      "name": "Promenade Beach",
+      "lat": 11.9312773,
+      "lng": 79.8358019,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Auroville",
+      "lat": 12.0052483,
+      "lng": 79.8068922,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Casablanca mall",
+      "lat": 11.9415915,
+      "lng": 79.8083133,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Saram China market",
+      "lat": 11.9408006,
+      "lng": 79.8121041,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pondicherry botanical garden",
+      "lat": 11.9302138,
+      "lng": 79.8224206,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pondicherry museum",
+      "lat": 11.9344884,
+      "lng": 79.83485,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Manakula Vinayagar temple",
+      "lat": 11.9357756,
+      "lng": 79.8336621,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chunnambar boat house",
+      "lat": 11.8838125,
+      "lng": 79.8006875,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Heritage walk by White town",
+      "lat": 11.9415915,
+      "lng": 79.8083133,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sightseeing at Green Quarter",
+      "lat": 11.9415915,
+      "lng": 79.8083133,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Temple Adventures centre-Scuba diving",
+      "lat": 11.9415915,
+      "lng": 79.8083133,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Paradise beach and island",
+      "lat": 11.9415915,
+      "lng": 79.8083133,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

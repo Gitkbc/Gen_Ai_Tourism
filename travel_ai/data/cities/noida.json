@@ -1,0 +1,85 @@
+{
+  "city": "Noida",
+  "places": [
+    {
+      "name": "Brahmaputra Market",
+      "lat": 28.5698995,
+      "lng": 77.3328421,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Grand Venice Mall",
+      "lat": 28.4525346,
+      "lng": 77.5263114,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Stupa 18 Art Gallery",
+      "lat": 28.5403868,
+      "lng": 77.3678857,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Botanical Gardens of Noida",
+      "lat": 28.5355161,
+      "lng": 77.3910265,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "DLF Mall of India",
+      "lat": 28.5673409,
+      "lng": 77.3211303,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rashtriya Dalit Prerna Sthal and Green Garden",
+      "lat": 28.5678724,
+      "lng": 77.3113144,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Snow World",
+      "lat": 28.5670716,
+      "lng": 77.321134,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 600.0
+    },
+    {
+      "name": "KidZania",
+      "lat": 28.5647843,
+      "lng": 77.3220308,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 700.0
+    },
+    {
+      "name": "ISKON temple",
+      "lat": 28.5891805,
+      "lng": 77.3532039,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Okhla Bird Sanctuary",
+      "lat": 28.5593695,
+      "lng": 77.309886,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 30.0
+    }
+  ]
+}

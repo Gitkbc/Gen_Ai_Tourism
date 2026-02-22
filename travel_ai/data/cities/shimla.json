@@ -1,0 +1,117 @@
+{
+  "city": "Shimla",
+  "places": [
+    {
+      "name": "Mall road",
+      "lat": 31.1035,
+      "lng": 77.1702,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Annandale  view",
+      "lat": 31.1116129,
+      "lng": 77.1593012,
+      "category": "Sightseeing & Exploration",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chadwick falls",
+      "lat": 31.1196351,
+      "lng": 77.1389365,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Himalayan bird park",
+      "lat": 31.102875,
+      "lng": 77.147654,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.9,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Naldhera and Shaily peak",
+      "lat": 31.1811641,
+      "lng": 77.1858995,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kufri Fun World",
+      "lat": 31.0941261,
+      "lng": 77.278049,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.8,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Scandal point",
+      "lat": 31.1052,
+      "lng": 77.1724,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kalka-Shimla Toy train",
+      "lat": 30.518,
+      "lng": 76.5615,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 320.0
+    },
+    {
+      "name": "Lakkar bazaar",
+      "lat": 31.1058233,
+      "lng": 77.1787114,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rafting at Tattapani",
+      "lat": 31.2487896,
+      "lng": 77.0895421,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.1,
+      "ticket_price": 1050.0
+    },
+    {
+      "name": "Kuthar Fort",
+      "lat": 30.9730901,
+      "lng": 76.9671865,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Tara Devi Temple",
+      "lat": 31.046256,
+      "lng": 77.1342842,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Christ Church",
+      "lat": 31.0614,
+      "lng": 77.1034,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jakhoo hill",
+      "lat": 31.1013414,
+      "lng": 77.1835041,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "city": "Meerut",
+  "places": [
+    {
+      "name": "Augarnath Temple",
+      "lat": 28.9968175,
+      "lng": 77.6911618,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hastinapur",
+      "lat": 29.1568812,
+      "lng": 77.9938497,
+      "category": "Sightseeing & Exploration, Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Digambar Jain Temple",
+      "lat": 29.1520696,
+      "lng": 77.7790471,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gandhi Bagh",
+      "lat": 29.0073395,
+      "lng": 77.7027737,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Mustafa Castle",
+      "lat": 28.9966751,
+      "lng": 77.6958551,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 80.0
+    },
+    {
+      "name": "Saint John's Church",
+      "lat": 29.0127484,
+      "lng": 77.7085277,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Abu Lane market",
+      "lat": 28.9963119,
+      "lng": 77.7020502,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sadar market",
+      "lat": 28.9940471,
+      "lng": 77.7008509,
+      "category": "Shopping & Markets",
+      "rating": 3.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "The Shopprix mall",
+      "lat": 28.9484829,
+      "lng": 77.6753675,
+      "category": "Shopping & Markets",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shapir ki Dargah",
+      "lat": 28.9844618,
+      "lng": 77.7064137,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Suraj Kund Temple",
+      "lat": 28.9770744,
+      "lng": 77.7148038,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

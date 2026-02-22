@@ -1,0 +1,13 @@
+{
+  "city": "Lonavla",
+  "places": [
+    {
+      "name": "Della Adventure Park",
+      "lat": 18.7814023,
+      "lng": 73.38906,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "city": "Goa",
+  "places": [
+    {
+      "name": "Basilica of Bom Jesus",
+      "lat": 15.5008,
+      "lng": 73.9114,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Fort Aguada",
+      "lat": 15.5008238,
+      "lng": 73.9114061,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "lat": 15.4922519,
+      "lng": 73.7737462,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Anjuna Beach",
+      "lat": 15.3144375,
+      "lng": 74.3143073,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chapora Fort",
+      "lat": 15.5733497,
+      "lng": 73.7409781,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Se Cathedral",
+      "lat": 15.6046375,
+      "lng": 73.7369631,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Baga Beach",
+      "lat": 15.5038769,
+      "lng": 73.9121918,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Candolim Beach",
+      "lat": 15.5552787,
+      "lng": 73.7517307,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Old Goa",
+      "lat": 15.5014,
+      "lng": 73.9135,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Arambol Beach",
+      "lat": 15.501984,
+      "lng": 73.9100068,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Palolem Beach",
+      "lat": 15.6846886,
+      "lng": 73.7032836,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Colva Beach",
+      "lat": 15.0099648,
+      "lng": 74.0232186,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Miramar Beach",
+      "lat": 15.2805316,
+      "lng": 73.9119945,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dr. Salim Ali Bird Santuary",
+      "lat": 15.513,
+      "lng": 73.8704,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.9,
+      "ticket_price": 10.0
+    }
+  ]
+}

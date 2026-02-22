@@ -1,0 +1,69 @@
+{
+  "city": "Ujjain",
+  "places": [
+    {
+      "name": "Mahakaleshwar Jyotirlinga",
+      "lat": 23.182905,
+      "lng": 75.768291,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kal Bhairava Temple",
+      "lat": 18.437535,
+      "lng": 73.6399395,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ram Ghat",
+      "lat": 23.1871,
+      "lng": 75.7644,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKCON Temple Ujjain",
+      "lat": 23.1611713,
+      "lng": 75.7997229,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kaliadeh Palace",
+      "lat": 23.2490716,
+      "lng": 75.7779662,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.0,
+      "ticket_price": 15.0
+    },
+    {
+      "name": "Rumi ka Mazaar",
+      "lat": 23.1793,
+      "lng": 75.784912,
+      "category": "Cultural & Heritage Sites",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahakal Lok",
+      "lat": 23.177785,
+      "lng": 75.7693919,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Harsiddhi Mata Temple",
+      "lat": 21.8397452,
+      "lng": 69.3690301,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

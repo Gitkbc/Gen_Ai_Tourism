@@ -1,0 +1,101 @@
+{
+  "city": "Guwahati",
+  "places": [
+    {
+      "name": "Kamakhya Temple",
+      "lat": 26.1664108,
+      "lng": 91.7055031,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kalakshetra theatre and artifact museum",
+      "lat": 26.2006043,
+      "lng": 92.9375739,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 75.0
+    },
+    {
+      "name": "Assam state museum",
+      "lat": 26.185175,
+      "lng": 91.7520769,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Guwahati planetarium",
+      "lat": 26.1914,
+      "lng": 91.7519611,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Sunset cruise by river Brahmaputra",
+      "lat": 26.2006043,
+      "lng": 92.9375739,
+      "category": "Sightseeing & Exploration",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pobitora wildlife sanctuary",
+      "lat": 26.2307847,
+      "lng": 92.0550609,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bird watching by Deepor Beel lake",
+      "lat": 26.1176941,
+      "lng": 91.6493532,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Assam State Zoo",
+      "lat": 26.1635189,
+      "lng": 91.7807253,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kamakhya Temple",
+      "lat": 26.1664108,
+      "lng": 91.7055031,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Fancy Bazaar",
+      "lat": 26.1830738,
+      "lng": 91.7404977,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Manas National Park",
+      "lat": 26.8101743,
+      "lng": 91.2394832,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Umananda Island",
+      "lat": 26.1964922,
+      "lng": 91.7449079,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

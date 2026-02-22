@@ -1,0 +1,117 @@
+{
+  "city": "Gurugram",
+  "places": [
+    {
+      "name": "Kingdom of Dreams",
+      "lat": 28.4678664,
+      "lng": 77.0688866,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.8,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Ambience Mall",
+      "lat": 28.505504,
+      "lng": 77.095956,
+      "category": "Shopping & Markets",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at HUDA marjet Sector 14",
+      "lat": 28.4710811,
+      "lng": 77.0454144,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Sadar bazaar Sector 12A",
+      "lat": 28.4652778,
+      "lng": 77.0269326,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Wet N Wild water park",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 600.0
+    },
+    {
+      "name": "Go-karting at Link road",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ice skating at Ambience mall",
+      "lat": 28.505504,
+      "lng": 77.095956,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Camp tikkling",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 5000.0
+    },
+    {
+      "name": "Aravalli biodiversity park",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sultanpur Bird sanctuary",
+      "lat": 28.4681234,
+      "lng": 76.8917707,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 400.0
+    },
+    {
+      "name": "Museum of folk and tribal art",
+      "lat": 28.4709339,
+      "lng": 77.0099669,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Indian Transport history",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.0,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Vintage camera museum",
+      "lat": 29.0587757,
+      "lng": 76.085601,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "DLF CyberHub for shopping",
+      "lat": 28.4950422,
+      "lng": 77.0890948,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    }
+  ]
+}

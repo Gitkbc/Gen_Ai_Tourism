@@ -1,0 +1,45 @@
+{
+  "city": "Ahmedabad",
+  "places": [
+    {
+      "name": "Sabarmati Ashram",
+      "lat": 23.0572846,
+      "lng": 72.6872617,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sabarmati Riverfront",
+      "lat": 23.2328758,
+      "lng": 72.6311938,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Manek Chowk",
+      "lat": 23.0234539,
+      "lng": 72.5766408,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kankaria Lake",
+      "lat": 23.0231887,
+      "lng": 72.5879093,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Science City",
+      "lat": 23.0062573,
+      "lng": 72.6025503,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 500.0
+    }
+  ]
+}

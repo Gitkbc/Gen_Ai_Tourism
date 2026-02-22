@@ -1,0 +1,13 @@
+{
+  "city": "Neil Island",
+  "places": [
+    {
+      "name": "Bharatpur Beach",
+      "lat": 11.8358457,
+      "lng": 93.0451011,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

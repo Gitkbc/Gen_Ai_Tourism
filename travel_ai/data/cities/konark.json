@@ -1,0 +1,45 @@
+{
+  "city": "Konark",
+  "places": [
+    {
+      "name": "Konark Sun Temple",
+      "lat": 19.8875953,
+      "lng": 85.4788065,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Chandrabhaga beach",
+      "lat": 19.8920686,
+      "lng": 86.0945364,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lingaraj Temple",
+      "lat": 20.2384519,
+      "lng": 86.091184,
+      "category": "Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ASI Museum",
+      "lat": 19.8920686,
+      "lng": 85.8337767,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.9,
+      "ticket_price": 850.0
+    },
+    {
+      "name": "Ramchandi beach and water sports",
+      "lat": 19.8920686,
+      "lng": 86.091184,
+      "category": "\tNatural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    }
+  ]
+}

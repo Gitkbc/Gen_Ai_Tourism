@@ -1,0 +1,29 @@
+{
+  "city": "Mount Abu",
+  "places": [
+    {
+      "name": "Nakki Lake",
+      "lat": 26.2978267,
+      "lng": 73.0180132,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunset Point",
+      "lat": 24.5945112,
+      "lng": 72.7062297,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 0.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dilwara Temples",
+      "lat": 24.6094,
+      "lng": 72.723,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

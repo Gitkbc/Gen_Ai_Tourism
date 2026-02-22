@@ -1,0 +1,85 @@
+{
+  "city": "Kullu",
+  "places": [
+    {
+      "name": "Hot springs at Manikaran",
+      "lat": 32.0267951,
+      "lng": 77.3511063,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Vaishno Devi Temple",
+      "lat": 31.9834,
+      "lng": 77.1262,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hamta Pass",
+      "lat": 32.2703698,
+      "lng": 77.3465824,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tirthan valley",
+      "lat": 31.6263301,
+      "lng": 77.4221267,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chandrakhani Pass",
+      "lat": 32.0695132,
+      "lng": 77.2407744,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lama Dugh Hike",
+      "lat": 32.2489026,
+      "lng": 77.1750129,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 1200.0
+    },
+    {
+      "name": "Cycling from Manu Temple",
+      "lat": 32.257042,
+      "lng": 77.1760523,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rafting in river Beas",
+      "lat": 31.75917566,
+      "lng": 76.09238692,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 450.0
+    },
+    {
+      "name": "Paragliding in Kullu hills",
+      "lat": 31.959205,
+      "lng": 77.1089377,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 2500.0
+    },
+    {
+      "name": "Great Himalayan National Park",
+      "lat": 31.7985414,
+      "lng": 77.5160134,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 50.0
+    }
+  ]
+}

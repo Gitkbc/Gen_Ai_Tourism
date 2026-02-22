@@ -1,0 +1,181 @@
+{
+  "city": "Leh",
+  "places": [
+    {
+      "name": "Pangong Tso",
+      "lat": 33.7595131,
+      "lng": 78.6674404,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Hemis National Park",
+      "lat": 33.7187211,
+      "lng": 77.3882224,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hunder \u0096 Try Bactrian Camel Safari",
+      "lat": 34.5752836,
+      "lng": 77.4988753,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khardungla Pass \u0096 Visit Highest Cafeteria In The World",
+      "lat": 34.2787271,
+      "lng": 77.6046756,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Zanskar Valley Tour",
+      "lat": 33.562562,
+      "lng": 76.987755,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Spituk Gompa Trek",
+      "lat": 34.1260631,
+      "lng": 77.5258614,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lamayuru \u0096 For Stargazing",
+      "lat": 34.1525864,
+      "lng": 77.5770535,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chadar Trek",
+      "lat": 34.1448306,
+      "lng": 77.5643291,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Drang Drung Glacier",
+      "lat": 34.1525864,
+      "lng": 77.5770535,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Main Bazaar",
+      "lat": 34.163644,
+      "lng": 77.5855065,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shanti Stupa",
+      "lat": 34.1736196,
+      "lng": 77.5749988,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Main Bazaar",
+      "lat": 34.163644,
+      "lng": 77.5855065,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Zorawar Fort",
+      "lat": 34.1581389,
+      "lng": 77.5698889,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 225.0
+    },
+    {
+      "name": "Changthang Wildlife Sanctuary",
+      "lat": 34.1525864,
+      "lng": 77.5770535,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Hall Of Fame",
+      "lat": 34.09,
+      "lng": 77.35,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Stok Palace Museum",
+      "lat": 34.0730019,
+      "lng": 77.5486221,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Nubra Valley",
+      "lat": 34.6863146,
+      "lng": 77.567288,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tso Moriri lake",
+      "lat": 32.9112291,
+      "lng": 78.3159411,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Magnetic hill",
+      "lat": 46.134658,
+      "lng": -64.888516,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chemrey Monastery",
+      "lat": 33.9590905,
+      "lng": 77.7890953,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Namgyal Tsemo Monastery",
+      "lat": 34.1672727,
+      "lng": 77.590485,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Thiksey Monastery",
+      "lat": 34.0559137,
+      "lng": 77.6677625,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 20.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "city": "Kodaikanal",
+  "places": [
+    {
+      "name": "Kodaikanal Lake",
+      "lat": 11.0168445,
+      "lng": 77.0032888,
+      "category": "Sightseeing & Exploration",
+      "rating": 3.8,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Night Safari",
+      "lat": 10.2343586,
+      "lng": 76.9558321,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Stroll at Coaker's Walk",
+      "lat": 10.2391086,
+      "lng": 77.4863295,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Dolphin's Nose",
+      "lat": 10.2300175,
+      "lng": 77.4977456,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Caps valley viewpoint",
+      "lat": 10.2166621,
+      "lng": 77.4937172,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Bear Shola falls",
+      "lat": 10.1807628,
+      "lng": 77.4863964,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Bryant park",
+      "lat": 10.2396614,
+      "lng": 77.4175698,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Berijam lake",
+      "lat": 10.2310165,
+      "lng": 77.4785336,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Guna caves",
+      "lat": 10.1841444,
+      "lng": 77.4918904,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "La Saleth Church",
+      "lat": 10.2103444,
+      "lng": 77.3959592,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hike to Pillars of Nature",
+      "lat": 10.2235459,
+      "lng": 77.4617799,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 650.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "city": "Badami",
+  "places": [
+    {
+      "name": "Sri Bhootanaatha Gudi",
+      "lat": 13.3908855,
+      "lng": 75.7213295,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Banashankari Devi Temple",
+      "lat": 15.9207886,
+      "lng": 75.6876704,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Badami Cave Temples",
+      "lat": 15.9183365,
+      "lng": 75.6839686,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 30.0
+    }
+  ]
+}

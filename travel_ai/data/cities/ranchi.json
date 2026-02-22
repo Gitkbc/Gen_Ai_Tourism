@@ -1,0 +1,69 @@
+{
+  "city": "Ranchi",
+  "places": [
+    {
+      "name": "Pahari Mandir",
+      "lat": 23.3754286,
+      "lng": 85.31075,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Biodiversity park",
+      "lat": 23.2547338,
+      "lng": 85.3468934,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 70.0
+    },
+    {
+      "name": "Rock garden",
+      "lat": 23.4038472,
+      "lng": 85.3129755,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Patratu valley",
+      "lat": 23.5755504,
+      "lng": 85.2741613,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "State museum Hotwar",
+      "lat": 23.3835366,
+      "lng": 85.3854678,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dassam falls",
+      "lat": 23.1462515,
+      "lng": 85.4672203,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jonha falls",
+      "lat": 23.3423069,
+      "lng": 85.6102055,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ranchi science centre",
+      "lat": 23.4069545,
+      "lng": 85.3402327,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 3.9,
+      "ticket_price": 100.0
+    }
+  ]
+}

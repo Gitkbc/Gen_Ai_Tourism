@@ -1,0 +1,37 @@
+{
+  "city": "Diskit",
+  "places": [
+    {
+      "name": "Yarab Tso",
+      "lat": 34.1514265,
+      "lng": 77.572562,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Panamik village",
+      "lat": 34.7983858,
+      "lng": 77.5246795,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Samstanling Monastery",
+      "lat": 34.36,
+      "lng": 77.42,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Diskit Monastery",
+      "lat": 34.5409579,
+      "lng": 77.5606881,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 20.0
+    }
+  ]
+}

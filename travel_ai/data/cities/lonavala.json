@@ -1,0 +1,77 @@
+{
+  "city": "Lonavala",
+  "places": [
+    {
+      "name": "Tiger\u0092s Leap cliff top",
+      "lat": 18.6961,
+      "lng": 73.3852,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Duke's nose trail",
+      "lat": 18.7323921,
+      "lng": 73.3678196,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Adlabs Imagica",
+      "lat": 18.7679396,
+      "lng": 73.2823206,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 1149.0
+    },
+    {
+      "name": "Bhushi dam",
+      "lat": 18.7224264,
+      "lng": 73.3962885,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunset at Lion's point",
+      "lat": 18.608297,
+      "lng": 73.3864648,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Karla Caves",
+      "lat": 18.7832762,
+      "lng": 73.4704426,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Imagicaa amusement park",
+      "lat": 18.7679396,
+      "lng": 73.2823206,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Lions Point",
+      "lat": 18.6999,
+      "lng": 73.3859,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ekvira Devi Temple",
+      "lat": 18.7832445,
+      "lng": 73.4702278,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

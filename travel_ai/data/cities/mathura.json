@@ -1,0 +1,61 @@
+{
+  "city": "Mathura",
+  "places": [
+    {
+      "name": "Kusum Sarovar",
+      "lat": 27.511932,
+      "lng": 77.4786939,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Govardhan hills trekking",
+      "lat": 27.473,
+      "lng": 77.444,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dwarkadhish Temple,",
+      "lat": 22.2371082,
+      "lng": 68.9676255,
+      "category": "\tReligious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vishram ghat",
+      "lat": 27.5025614,
+      "lng": 77.6890687,
+      "category": "\tReligious & Spiritual Pilgrimages, Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tilak Dwar market",
+      "lat": 27.4990503,
+      "lng": 77.6847491,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Krishna Nagar market",
+      "lat": 28.6509821,
+      "lng": 77.286333,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Krishna Janmabhoomi temple",
+      "lat": 27.5048884,
+      "lng": 77.66978,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "city": "Visakhapatnam",
+  "places": [
+    {
+      "name": "Lepakshi Handicrafts Emporium",
+      "lat": 13.8039436,
+      "lng": 77.6077197,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Old Book market by Purna Market",
+      "lat": 17.7090249,
+      "lng": 83.297086,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "CMR Shopping Mall",
+      "lat": 15.9128998,
+      "lng": 79.7399875,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rishikonda Beach",
+      "lat": 17.7825201,
+      "lng": 83.3851154,
+      "category": "Adventure & Outdoor Activities, Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Kailasagiri",
+      "lat": 17.7492105,
+      "lng": 83.3418016,
+      "category": "Adventure & Outdoor Activities, Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 1100.0
+    },
+    {
+      "name": "Submarine Museum",
+      "lat": 15.9128998,
+      "lng": 79.7399875,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Borra Caves",
+      "lat": 18.2806929,
+      "lng": 83.0396992,
+      "category": "Adventure & Outdoor Activities, Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "War Memorial",
+      "lat": 15.9128998,
+      "lng": 79.7399875,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indira Gandhi Zoological Park",
+      "lat": 17.765657,
+      "lng": 83.3488338,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Matsyadarshini Aquarium",
+      "lat": 15.9128998,
+      "lng": 79.7399875,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Visakha Museum",
+      "lat": 17.7205813,
+      "lng": 83.3345285,
+      "category": "Arts, Science & Literature Attractions, Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

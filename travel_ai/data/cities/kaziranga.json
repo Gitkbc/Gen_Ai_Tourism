@@ -1,0 +1,29 @@
+{
+  "city": "Kaziranga",
+  "places": [
+    {
+      "name": "Majuli river island",
+      "lat": 27.0016172,
+      "lng": 94.2242981,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Orchid national park",
+      "lat": 26.2006043,
+      "lng": 92.9375739,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kaziranga National Park",
+      "lat": 26.6445044,
+      "lng": 93.3524858,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 900.0
+    }
+  ]
+}

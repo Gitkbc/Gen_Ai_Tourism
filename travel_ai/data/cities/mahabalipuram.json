@@ -1,0 +1,61 @@
+{
+  "city": "Mahabalipuram",
+  "places": [
+    {
+      "name": "Shore Temple",
+      "lat": 12.6164515,
+      "lng": 79.1376311,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Pancha Ratha",
+      "lat": 12.608893,
+      "lng": 80.189613,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Krishna's Chunk",
+      "lat": 11.1271225,
+      "lng": 78.6568942,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Arjuna's Penance",
+      "lat": 12.6179495,
+      "lng": 80.1927029,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "India Seashell Museum",
+      "lat": 12.6094039,
+      "lng": 80.1876212,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Crocodile farm",
+      "lat": 11.1271225,
+      "lng": 78.6568942,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Cavern Temples",
+      "lat": 11.1271225,
+      "lng": 78.6568942,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

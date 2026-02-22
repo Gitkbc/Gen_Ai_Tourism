@@ -1,0 +1,69 @@
+{
+  "city": "Ravangla",
+  "places": [
+    {
+      "name": "Buddha Park",
+      "lat": 27.3143623,
+      "lng": 88.3632705,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ralang monastery",
+      "lat": 27.327015,
+      "lng": 88.355095,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Doling Gompa",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 34.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kheunpheling Carpet centre",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Rayong sunrise point",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Borong Hot springs",
+      "lat": 27.3657693,
+      "lng": 88.3278092,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Temi tea garden",
+      "lat": 27.2398,
+      "lng": 88.427643,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Maenam hill",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "city": "Ajmer",
+  "places": [
+    {
+      "name": "Adhai Din ka Jhopra",
+      "lat": 25.9775867,
+      "lng": 76.5532869,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Anasagar Lake",
+      "lat": 26.455216,
+      "lng": 74.6251458,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khwaja Gharib Nawaz Dargah",
+      "lat": 26.4745925,
+      "lng": 74.6195474,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

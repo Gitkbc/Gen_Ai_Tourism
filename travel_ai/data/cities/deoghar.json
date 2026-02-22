@@ -1,0 +1,29 @@
+{
+  "city": "Deoghar",
+  "places": [
+    {
+      "name": "Baba Baidyanath Temple",
+      "lat": 24.4927645,
+      "lng": 86.7005212,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Naulakha temple",
+      "lat": 24.4775623,
+      "lng": 86.7083557,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trikut hill",
+      "lat": 24.4983333,
+      "lng": 86.8369444,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

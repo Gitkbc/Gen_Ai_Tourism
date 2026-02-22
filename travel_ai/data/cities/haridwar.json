@@ -1,0 +1,93 @@
+{
+  "city": "Haridwar",
+  "places": [
+    {
+      "name": "dip in Bramhakund",
+      "lat": 29.957,
+      "lng": 78.1711,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ganga arti at Har-ki-Pauri ghat",
+      "lat": 29.9573607,
+      "lng": 78.1749687,
+      "category": "Religious & Spiritual Pilgrimages, Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Neel Dhara Pakshi Vihar",
+      "lat": 29.96,
+      "lng": 78.16,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rajaji National Park",
+      "lat": 30.01542,
+      "lng": 78.1523984,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 150.0
+    },
+    {
+      "name": "Moti Bazar",
+      "lat": 33.6136521,
+      "lng": 73.0590799,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jwalapur Bazar",
+      "lat": 29.9267729,
+      "lng": 78.1071057,
+      "category": "Shopping & Markets",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bara Bazar",
+      "lat": 22.5817406,
+      "lng": 88.3543972,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kankhal Bazar",
+      "lat": 29.9270808,
+      "lng": 78.1437257,
+      "category": "Shopping & Markets",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Har Ki Pauri",
+      "lat": 29.9573607,
+      "lng": 78.1749687,
+      "category": "Religious & Spiritual Pilgrimages, Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tungnath Chandrashila trekk",
+      "lat": 30.4862688,
+      "lng": 79.2212453,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Chandi Devi Temple",
+      "lat": 29.9337646,
+      "lng": 78.1805466,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

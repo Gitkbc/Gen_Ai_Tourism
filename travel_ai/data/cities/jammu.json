@@ -1,0 +1,13 @@
+{
+  "city": "Jammu",
+  "places": [
+    {
+      "name": "Vaishno Devi",
+      "lat": 33.0308295,
+      "lng": 74.9490416,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

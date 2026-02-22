@@ -1,0 +1,13 @@
+{
+  "city": "Chikmagalur",
+  "places": [
+    {
+      "name": "Mullayanagiri Betta",
+      "lat": 13.422865,
+      "lng": 75.7703876,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

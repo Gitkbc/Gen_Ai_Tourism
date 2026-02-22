@@ -1,0 +1,69 @@
+{
+  "city": "Bodh Gaya",
+  "places": [
+    {
+      "name": "Mahabodhi Temple",
+      "lat": 24.6959222,
+      "lng": 84.9914193,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Thai monastery",
+      "lat": 25.9644427,
+      "lng": 85.2722472,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Great Buddha statue",
+      "lat": 24.6903883,
+      "lng": 84.9819433,
+      "category": "Sightseeing & Exploration",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bodhi tree",
+      "lat": 25.9644427,
+      "lng": 85.2722472,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indosan Nippon Japanese temple",
+      "lat": 25.9644427,
+      "lng": 85.2722472,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dungeshwari cave temple",
+      "lat": 24.7367013,
+      "lng": 85.0474977,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bodh gaya archaelogical museum",
+      "lat": 24.6949135,
+      "lng": 84.9874413,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Muchalinda lake",
+      "lat": 24.6806441,
+      "lng": 84.9926622,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

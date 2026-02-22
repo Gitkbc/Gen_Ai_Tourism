@@ -1,0 +1,61 @@
+{
+  "city": "Ranikhet",
+  "places": [
+    {
+      "name": "Bhalu dam",
+      "lat": 29.6204144,
+      "lng": 79.4775733,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jhula Devi temple",
+      "lat": 29.6181375,
+      "lng": 79.4440156,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chaubatia Gardens",
+      "lat": 29.6197419,
+      "lng": 79.4610397,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Joshimath Market",
+      "lat": 30.5561089,
+      "lng": 79.5616759,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sadar bazaar",
+      "lat": 28.6585105,
+      "lng": 77.2127305,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Binsar Mahadev Mandir",
+      "lat": 30.0166279,
+      "lng": 79.1620873,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rani Jheel",
+      "lat": 29.6397889,
+      "lng": 79.4301009,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

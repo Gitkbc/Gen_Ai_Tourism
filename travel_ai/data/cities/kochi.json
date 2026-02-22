@@ -1,0 +1,85 @@
+{
+  "city": "Kochi",
+  "places": [
+    {
+      "name": "LuLu International Shopping Mall",
+      "lat": 10.0578407,
+      "lng": 77.0660813,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "National Shrine Basilica of our Lady of Ransom",
+      "lat": 10.0271483,
+      "lng": 76.3081856,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mattancherry Palace",
+      "lat": 9.9583,
+      "lng": 76.2594,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 2.0
+    },
+    {
+      "name": "Marine Drive Kochi",
+      "lat": 9.9582773,
+      "lng": 76.2593508,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chottanikara Bhagvathy Temple",
+      "lat": 9.9771685,
+      "lng": 76.2773228,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hill Palace Museum",
+      "lat": 9.9331743,
+      "lng": 76.3905714,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Cherai Beach",
+      "lat": 9.952749,
+      "lng": 76.3638016,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Fort Kochi",
+      "lat": 10.1415953,
+      "lng": 76.1782833,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kerala Folklore Museum",
+      "lat": 11.8541418,
+      "lng": 75.3714455,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Wonderla Amusement Park",
+      "lat": 9.9330107,
+      "lng": 76.2989787,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 750.0
+    }
+  ]
+}

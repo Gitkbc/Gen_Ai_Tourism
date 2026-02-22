@@ -1,0 +1,53 @@
+{
+  "city": "Manali",
+  "places": [
+    {
+      "name": "Solang Valley",
+      "lat": 32.316,
+      "lng": 77.157,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hidimba Devi Temple",
+      "lat": 32.2483526,
+      "lng": 77.1815727,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Beas kund",
+      "lat": 32.3664466,
+      "lng": 77.0854956,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vashisht baths",
+      "lat": 32.2810061,
+      "lng": 77.2290193,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rohtang Pass",
+      "lat": 32.3716426,
+      "lng": 77.2466221,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gulaba viewpoint",
+      "lat": 32.3179031,
+      "lng": 77.1893396,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

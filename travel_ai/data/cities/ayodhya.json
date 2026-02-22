@@ -1,0 +1,61 @@
+{
+  "city": "Ayodhya",
+  "places": [
+    {
+      "name": "Sita ki rasoi",
+      "lat": 26.7921605,
+      "lng": 82.1997954,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 300.0
+    },
+    {
+      "name": "Treta-ke-Thakur",
+      "lat": 26.7921605,
+      "lng": 82.1997954,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 80.0
+    },
+    {
+      "name": "Gulab bari",
+      "lat": 26.7798857,
+      "lng": 82.1575316,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kanak Bhawan",
+      "lat": 26.7980174,
+      "lng": 82.1992155,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nageshwarnath Temple",
+      "lat": 26.808995,
+      "lng": 82.2056474,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hanuman Garhi",
+      "lat": 26.7952876,
+      "lng": 82.2016429,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ram Janmabhoomi",
+      "lat": 26.795688,
+      "lng": 82.194431,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

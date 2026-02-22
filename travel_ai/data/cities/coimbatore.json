@@ -1,0 +1,133 @@
+{
+  "city": "Coimbatore",
+  "places": [
+    {
+      "name": "Marudamalai Temple",
+      "lat": 11.4102038,
+      "lng": 77.5509774,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trek to Dhoni hills",
+      "lat": 11.046568,
+      "lng": 76.6950324,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trek to Perumal peak",
+      "lat": 11.0168445,
+      "lng": 76.8517068,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trek to Thalaiyar falls",
+      "lat": 11.0168445,
+      "lng": 76.9558321,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Black Thunder amusement park",
+      "lat": 11.0168445,
+      "lng": 76.9558321,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Brookefields mall",
+      "lat": 11.3264548,
+      "lng": 76.9558321,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 65.0
+    },
+    {
+      "name": "Adiyogi Shiva Statue",
+      "lat": 11.0092555,
+      "lng": 76.9127039,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Racing events at Chettipalayam",
+      "lat": 10.9724897,
+      "lng": 76.9590555,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "GeDee Car museum tour",
+      "lat": 10.9132206,
+      "lng": 76.7404437,
+      "category": "Arts, Science & Literature Attractions, Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Textile museum tour",
+      "lat": 11.0066289,
+      "lng": 77.036902,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Anamalai Wildlife Sanctuary",
+      "lat": 11.0347344,
+      "lng": 76.9779209,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Valankulam lake",
+      "lat": 10.4059862,
+      "lng": 77.0324697,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Velliangiri hills",
+      "lat": 10.991694,
+      "lng": 77.1294933,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.6,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "TNAU Botanical gardens",
+      "lat": 10.983279,
+      "lng": 76.972167,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Nilgiri Biosphere Nature Park",
+      "lat": 11.0147932,
+      "lng": 76.6926714,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Maryoor hilly getaway",
+      "lat": 11.02638,
+      "lng": 76.9315362,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 20.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "city": "Indore",
+  "places": [
+    {
+      "name": "Chappan Dukan",
+      "lat": 22.7240232,
+      "lng": 75.8842574,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sarafa Bazar",
+      "lat": 22.7175144,
+      "lng": 75.852306,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pipliyapala Regional Park",
+      "lat": 22.6771511,
+      "lng": 75.8564021,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Khajrana Ganesh Mandir",
+      "lat": 22.731233,
+      "lng": 75.9081489,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "TI Mall",
+      "lat": 22.7217,
+      "lng": 75.8786,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Phoenix Citadel",
+      "lat": 22.7462625,
+      "lng": 75.9353073,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rajwada Palace",
+      "lat": 22.7184419,
+      "lng": 75.855067,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 10.0
+    }
+  ]
+}

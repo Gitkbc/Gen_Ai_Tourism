@@ -1,0 +1,69 @@
+{
+  "city": "Pune",
+  "places": [
+    {
+      "name": "Phoenix Marketcity Pune",
+      "lat": 18.562254,
+      "lng": 73.9166943,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chatushrungi Devi Temple",
+      "lat": 18.5393061,
+      "lng": 73.8290409,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pune-Okayama Friendship Garden",
+      "lat": 18.4913813,
+      "lng": 73.8367603,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Raja Dinkar Kelkar Museum",
+      "lat": 18.5106855,
+      "lng": 73.8544307,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 300.0
+    },
+    {
+      "name": "Sinhagad Fort",
+      "lat": 18.366277,
+      "lng": 73.7558777,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Rajiv Gandhi zoo",
+      "lat": 18.4524807,
+      "lng": 73.8607977,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Dagadusheth Halwai Ganapati temple",
+      "lat": 18.5164297,
+      "lng": 73.8561329,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shaniwar Wada",
+      "lat": 18.5194647,
+      "lng": 73.8553175,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    }
+  ]
+}

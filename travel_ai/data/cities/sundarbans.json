@@ -1,0 +1,61 @@
+{
+  "city": "Sundarbans",
+  "places": [
+    {
+      "name": "Sundarbans National Park",
+      "lat": 21.8842354,
+      "lng": 88.8853765,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Burirdabri Forest camp",
+      "lat": 22.077495,
+      "lng": 89.0293676,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.4,
+      "ticket_price": 600.0
+    },
+    {
+      "name": "Sajnekhali Wildlife Sanctuary",
+      "lat": 22.1237762,
+      "lng": 88.8313005,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 550.0
+    },
+    {
+      "name": "Kotka beach",
+      "lat": 21.8449338,
+      "lng": 89.7960898,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hiron point",
+      "lat": 21.8162132,
+      "lng": 89.4626047,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dublar Char island",
+      "lat": 21.7728061,
+      "lng": 89.5591963,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhagatpur crocodile project",
+      "lat": 21.46,
+      "lng": 88.18,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "city": "Aurangabad",
+  "places": [
+    {
+      "name": "Prozone Mall",
+      "lat": 11.0547682,
+      "lng": 76.9941106,
+      "category": "Shopping & Markets",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bibi ka Maqbara",
+      "lat": 19.9006246,
+      "lng": 75.319353,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ellora Caves",
+      "lat": 20.0267844,
+      "lng": 75.1770869,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Daulatabad Fort",
+      "lat": 19.946133,
+      "lng": 75.221652,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Ajanta Caves",
+      "lat": 20.5514444,
+      "lng": 75.7018913,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Ellora Caves",
+      "lat": 20.0267844,
+      "lng": 75.1770869,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 30.0
+    }
+  ]
+}

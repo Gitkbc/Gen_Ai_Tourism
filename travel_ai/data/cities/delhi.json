@@ -1,0 +1,141 @@
+{
+  "city": "Delhi",
+  "places": [
+    {
+      "name": "India Gate",
+      "lat": 28.612912,
+      "lng": 77.2295097,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Humayun's Tomb",
+      "lat": 28.5932848,
+      "lng": 77.2507492,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Akshardham Temple",
+      "lat": 28.6126735,
+      "lng": 77.2772619,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 60.0
+    },
+    {
+      "name": "Waste to Wonder Park",
+      "lat": 28.5926939,
+      "lng": 77.2569715,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.1,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Jantar Mantar",
+      "lat": 28.6270547,
+      "lng": 77.2166267,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.2,
+      "ticket_price": 15.0
+    },
+    {
+      "name": "Chandni Chowk",
+      "lat": 28.6505331,
+      "lng": 77.230337,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lotus Temple",
+      "lat": 28.553492,
+      "lng": 77.2588264,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Red Fort",
+      "lat": 28.6561592,
+      "lng": 77.2410203,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 35.0
+    },
+    {
+      "name": "Agrasen ki Baoli",
+      "lat": 28.626062,
+      "lng": 77.2250369,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunder Nursery",
+      "lat": 28.5956467,
+      "lng": 77.2451691,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Garden of Five Senses",
+      "lat": 28.513403,
+      "lng": 77.1975227,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 35.0
+    },
+    {
+      "name": "Lodhi Garden",
+      "lat": 28.5936814,
+      "lng": 77.2218338,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "National Gallery of Modern Art",
+      "lat": 28.6101926,
+      "lng": 77.2344179,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "National Zoological Park",
+      "lat": 38.9296156,
+      "lng": 77.0497844,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 80.0
+    },
+    {
+      "name": "Qutub Minar",
+      "lat": 28.5244946,
+      "lng": 77.1855177,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 35.0
+    },
+    {
+      "name": "Shopping at Sarojini Nagar",
+      "lat": 28.5740324,
+      "lng": 77.1990669,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "National Science Centre",
+      "lat": 28.6127836,
+      "lng": 77.2455584,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 70.0
+    }
+  ]
+}

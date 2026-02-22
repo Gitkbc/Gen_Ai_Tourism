@@ -1,0 +1,93 @@
+{
+  "city": "Jabalpur",
+  "places": [
+    {
+      "name": "Dhuandhar Falls",
+      "lat": 23.1262738,
+      "lng": 79.8075411,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Marble rocks at Bedhaghat",
+      "lat": 23.1299297,
+      "lng": 79.795454,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Narmada aarti",
+      "lat": 22.3335261,
+      "lng": 77.12592748,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Balancing Rock formations",
+      "lat": 23.855,
+      "lng": 79.544,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Rani Durgavati fort",
+      "lat": 23.1483266,
+      "lng": 79.9016574,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chausath Yogini temple",
+      "lat": 26.4368173,
+      "lng": 78.2352216,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dumna Nature Reserve Park",
+      "lat": 23.16949,
+      "lng": 80.012698,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Madan Mahal Fort",
+      "lat": 23.1484693,
+      "lng": 79.9016654,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "South Avenue malls",
+      "lat": 23.124094,
+      "lng": 79.927194,
+      "category": "Shopping & Markets",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sadar bazaar",
+      "lat": 28.6585105,
+      "lng": 77.2127305,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kanha National Park",
+      "lat": 22.2994956,
+      "lng": 80.5864278,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 100.0
+    }
+  ]
+}

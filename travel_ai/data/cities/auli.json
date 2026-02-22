@@ -1,0 +1,53 @@
+{
+  "city": "Auli",
+  "places": [
+    {
+      "name": "Auli Gorson Trek",
+      "lat": 30.066753,
+      "lng": 79.0192997,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nanda Devi Biosphere Reserve",
+      "lat": 30.6587637,
+      "lng": 79.8386542,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Chattrakund Lake",
+      "lat": 30.066753,
+      "lng": 79.0192997,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Trishul Peak",
+      "lat": 30.3116666,
+      "lng": 79.7766666,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Joshimath Market",
+      "lat": 30.5561089,
+      "lng": 79.5616759,
+      "category": "Shopping & Markets",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Auli Ski Resort",
+      "lat": 30.5308872,
+      "lng": 79.5615124,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "city": "Kargil",
+  "places": [
+    {
+      "name": "Drass Valley",
+      "lat": 34.4100265,
+      "lng": 75.6602598,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kargil War Memorial",
+      "lat": 34.4340036,
+      "lng": 75.8076814,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

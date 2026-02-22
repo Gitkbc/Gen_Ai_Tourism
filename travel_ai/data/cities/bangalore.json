@@ -1,0 +1,85 @@
+{
+  "city": "Bangalore",
+  "places": [
+    {
+      "name": "Bangalore Palace",
+      "lat": 18.699917,
+      "lng": 73.3859496,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.2,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Lalbagh Botanical Garden",
+      "lat": 13.0035068,
+      "lng": 77.5890953,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Cubbon Park",
+      "lat": 12.9494158,
+      "lng": 77.5846805,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nehru Planetarium",
+      "lat": 12.9779291,
+      "lng": 77.5951549,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.0,
+      "ticket_price": 35.0
+    },
+    {
+      "name": "National Gallery of Modern Art",
+      "lat": 12.5923,
+      "lng": 77.3517,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Church street",
+      "lat": 28.6101926,
+      "lng": 77.2344179,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "MG Road",
+      "lat": 12.582568,
+      "lng": 77.364279,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Boating at Yediyur lake",
+      "lat": 12.9747587,
+      "lng": 77.6093926,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Vidhana Soudha",
+      "lat": 12.93349,
+      "lng": 77.5766285,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKCON Temple Bangalore",
+      "lat": 12.9796121,
+      "lng": 77.5908462,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

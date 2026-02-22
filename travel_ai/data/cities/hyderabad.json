@@ -1,0 +1,101 @@
+{
+  "city": "Hyderabad",
+  "places": [
+    {
+      "name": "Charminar",
+      "lat": 13.0098328,
+      "lng": 77.5510964,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Golconda Fort",
+      "lat": 17.3615636,
+      "lng": 78.4746645,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Hussain Sagar Lake",
+      "lat": 17.383309,
+      "lng": 78.4010528,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ramoji Film City",
+      "lat": 17.4238798,
+      "lng": 78.4738215,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 1150.0
+    },
+    {
+      "name": "Salar Jung Museum",
+      "lat": 17.221713,
+      "lng": 78.284925,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Qutb Shahi Tombs",
+      "lat": 17.3716084,
+      "lng": 78.4802439,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Lad Bazaar",
+      "lat": 17.3973706,
+      "lng": 78.4001141,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Birla Mandir",
+      "lat": 17.3628791,
+      "lng": 78.4741288,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chowmahalla Palace",
+      "lat": 17.212781,
+      "lng": 78.281814,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 80.0
+    },
+    {
+      "name": "Nehru Zoological Park",
+      "lat": 17.3578233,
+      "lng": 78.4716897,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Infinite adventure club",
+      "lat": 17.3483047,
+      "lng": 78.4425108,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Lumbini Park",
+      "lat": 17.4458759,
+      "lng": 78.4186335,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 20.0
+    }
+  ]
+}

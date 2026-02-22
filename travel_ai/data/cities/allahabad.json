@@ -1,0 +1,101 @@
+{
+  "city": "Allahabad",
+  "places": [
+    {
+      "name": "Triveni Sangam",
+      "lat": 25.4232879,
+      "lng": 81.8896873,
+      "category": "\tNatural Landscapes & Wildlife, Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khusro Bagh",
+      "lat": 25.4422713,
+      "lng": 81.8210388,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Anand Bhawan",
+      "lat": 25.4605342,
+      "lng": 81.8598312,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Allahabad museum",
+      "lat": 25.4568486,
+      "lng": 81.8489522,
+      "category": "\tArts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Allahabad Fort",
+      "lat": 25.4295339,
+      "lng": 81.8768401,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Allahabad Pillar",
+      "lat": 25.431335,
+      "lng": 81.8750618,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "New Yamuna Bridge",
+      "lat": 27.1152336,
+      "lng": 78.3686219,
+      "category": "\tSightseeing & Exploration",
+      "rating": 3.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "All Saints Cathedral",
+      "lat": 25.27432,
+      "lng": 81.493504,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Katra Shopping area",
+      "lat": 25.46962455,
+      "lng": 81.85626501,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chowk market",
+      "lat": 25.4365576,
+      "lng": 81.8342194,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Civil Lines shopping area",
+      "lat": 25.4529334,
+      "lng": 81.8348882,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ganga Ghat and baandh wale Hanuman ji",
+      "lat": 25.4290451,
+      "lng": 81.8850269,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    }
+  ]
+}

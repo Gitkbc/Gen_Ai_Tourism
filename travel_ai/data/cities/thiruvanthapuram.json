@@ -1,0 +1,53 @@
+{
+  "city": "Thiruvanthapuram",
+  "places": [
+    {
+      "name": "Attukal Bhagwathy Temple",
+      "lat": 9.9657787,
+      "lng": 76.2421147,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kovalam Beach",
+      "lat": 8.4698623,
+      "lng": 76.9554858,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Thiruvanthapuram Zoological park",
+      "lat": 8.3837841,
+      "lng": 76.9804176,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 200.0
+    },
+    {
+      "name": "Kanakakkunnu Palace",
+      "lat": 8.5105939,
+      "lng": 76.9549377,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Veli Lake Tourist Village",
+      "lat": 8.5107183,
+      "lng": 76.9581858,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Napier Museum",
+      "lat": 8.5080206,
+      "lng": 76.8886702,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 70.0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "city": "Amritsar",
+  "places": [
+    {
+      "name": "Sadda Pind",
+      "lat": 31.63398,
+      "lng": 74.872261,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 700.0
+    },
+    {
+      "name": "Gobind Garh Fort",
+      "lat": 31.644012,
+      "lng": 74.8131795,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Shri Durgiana Temple",
+      "lat": 31.6276227,
+      "lng": 74.8580233,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shree Harminder Sahib Gurudwara",
+      "lat": 31.6271534,
+      "lng": 74.8673445,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "The Partition Museum",
+      "lat": 31.6199803,
+      "lng": 74.8764849,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Golden Temple (Harmandir Sahib)",
+      "lat": 31.6256935,
+      "lng": 74.8790091,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "lat": 31.6199803,
+      "lng": 74.8764849,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Wagah Border",
+      "lat": 31.6207396,
+      "lng": 74.8801655,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

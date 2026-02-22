@@ -1,0 +1,77 @@
+{
+  "city": "Tawang",
+  "places": [
+    {
+      "name": "Jaswant Garh war memorial",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Madhuri lake",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shonga Tser Lake",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nuranang waterfalls",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tibetan Settlement market",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Cultural & Heritage Sites, Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sela pass",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gorichen Peak hike",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Taktsang Gompa monastery",
+      "lat": 28.2179994,
+      "lng": 94.7277528,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tawang Monastery",
+      "lat": 27.5867261,
+      "lng": 91.8577194,
+      "category": "Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",
+      "rating": 4.54,
+      "ticket_price": 0.0
+    }
+  ]
+}

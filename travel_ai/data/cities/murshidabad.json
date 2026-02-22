@@ -1,0 +1,37 @@
+{
+  "city": "Murshidabad",
+  "places": [
+    {
+      "name": "Katra Masjid",
+      "lat": 24.184853,
+      "lng": 88.288056,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hazarduari Palace",
+      "lat": 24.1863376,
+      "lng": 88.2876731,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 5.0
+    },
+    {
+      "name": "Jahan Kosha cannon",
+      "lat": 24.1782162,
+      "lng": 88.2687913,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Murshidabad District museum",
+      "lat": 24.1759039,
+      "lng": 88.2933334,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    }
+  ]
+}

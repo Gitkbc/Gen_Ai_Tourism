@@ -1,0 +1,53 @@
+{
+  "city": "Diu",
+  "places": [
+    {
+      "name": "Naida Caves",
+      "lat": 20.7102563,
+      "lng": 70.980716,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.9,
+      "ticket_price": 200.0
+    },
+    {
+      "name": "Diu Fort",
+      "lat": 20.7186887,
+      "lng": 70.9876739,
+      "category": "Cultural & Heritage Sites",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "DMC market",
+      "lat": 20.718628,
+      "lng": 70.987048,
+      "category": "Shopping & Markets",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Basilica of Bom Jesus Church",
+      "lat": 20.55466502,
+      "lng": 71.88570098,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jampore beach",
+      "lat": 20.375971,
+      "lng": 72.825722,
+      "category": "Natural Landscapes & Wildlife, Beach",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Diu museum",
+      "lat": 20.7155688,
+      "lng": 70.9891437,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.0,
+      "ticket_price": 30.0
+    }
+  ]
+}

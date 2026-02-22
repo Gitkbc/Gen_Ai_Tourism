@@ -1,0 +1,45 @@
+{
+  "city": "Thanjavur",
+  "places": [
+    {
+      "name": "Brihadeeswarar Temple",
+      "lat": 10.2391086,
+      "lng": 77.4854759,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gangaikonda Cholapuram",
+      "lat": 10.7826954,
+      "lng": 77.4977456,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shiva Ganga Garden",
+      "lat": 11.2075881,
+      "lng": 79.1314587,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vijaynagar fort",
+      "lat": 10.1841413,
+      "lng": 79.4513858,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Thanjavur Royal Palace and Art Gallery",
+      "lat": 10.7929397,
+      "lng": 79.1961043,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

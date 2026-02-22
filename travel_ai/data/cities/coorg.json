@@ -1,0 +1,69 @@
+{
+  "city": "Coorg",
+  "places": [
+    {
+      "name": "Raja's Seat garden",
+      "lat": 15.3548385,
+      "lng": 76.469264,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nagarhole Tiger Reserve",
+      "lat": 12.4145674,
+      "lng": 75.7371014,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 150.0
+    },
+    {
+      "name": "Mallalli Falls",
+      "lat": 12.0734366,
+      "lng": 76.1510815,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Brahmagiri Wildlife Sanctuary",
+      "lat": 12.680643,
+      "lng": 75.723667,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Dubare Elephant camp and bathing spot",
+      "lat": 12.1726489,
+      "lng": 75.6440842,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Coorg river rafting Barapole",
+      "lat": 12.371192,
+      "lng": 75.9051197,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Namdroling Monastery",
+      "lat": 12.3374942,
+      "lng": 75.8069082,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Iruppu Falls-Brahmagiri",
+      "lat": 12.430628,
+      "lng": 75.9669536,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "city": "Vadodara",
+  "places": [
+    {
+      "name": "Sayaji Baug Zoo",
+      "lat": 22.3115,
+      "lng": 73.19,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Inorbit Mall Vadodara",
+      "lat": 22.3114569,
+      "lng": 73.191386,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Baroda Museum &Gallery",
+      "lat": 22.3223271,
+      "lng": 73.1655842,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 5.0
+    },
+    {
+      "name": "BAPS Shri Swaminarayan Mandir",
+      "lat": 22.3117697,
+      "lng": 73.1887449,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mandvi Gate",
+      "lat": 22.3001,
+      "lng": 73.2106,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Laxmi Vilas Palace",
+      "lat": 22.300138,
+      "lng": 73.2106478,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 200.0
+    }
+  ]
+}

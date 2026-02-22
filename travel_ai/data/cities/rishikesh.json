@@ -1,0 +1,117 @@
+{
+  "city": "Rishikesh",
+  "places": [
+    {
+      "name": "Laxman Jhula",
+      "lat": 30.1259072,
+      "lng": 78.3308815,
+      "category": "Adventure & Outdoor Activities, Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Triveni Ghat",
+      "lat": 30.1038807,
+      "lng": 78.2990999,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Vashishta Gufa",
+      "lat": 30.1142698,
+      "lng": 78.4320327,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kunjapuri Devi Temple and camps",
+      "lat": 30.1142698,
+      "lng": 78.4320327,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Neer Garh waterfall",
+      "lat": 30.1409843,
+      "lng": 78.3453658,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Beatles Ashram",
+      "lat": 30.1127675,
+      "lng": 78.3121592,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Giant swing or zip lining",
+      "lat": 30.1127675,
+      "lng": 78.3121592,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 1800.0
+    },
+    {
+      "name": "Camp on banks of Ganges",
+      "lat": 27.40364009,
+      "lng": 83.00912405,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ram Jhula",
+      "lat": 30.1237975,
+      "lng": 78.3141327,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Neelkantha Mahadeva Temple",
+      "lat": 30.081059,
+      "lng": 78.340565,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bharat Mandir",
+      "lat": 20.593684,
+      "lng": 78.96288,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kunjapuri Devi",
+      "lat": 30.10271,
+      "lng": 78.185053,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 5.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Bhootnath Temple",
+      "lat": 30.1166,
+      "lng": 78.3181,
+      "category": "Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Devprayag Sightseeing",
+      "lat": 30.1459471,
+      "lng": 78.5992925,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    }
+  ]
+}

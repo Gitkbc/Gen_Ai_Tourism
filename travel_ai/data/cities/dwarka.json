@@ -1,0 +1,37 @@
+{
+  "city": "Dwarka",
+  "places": [
+    {
+      "name": "Dwarka Beach & Lighthouse",
+      "lat": 23.0358621,
+      "lng": 72.5701089,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rukmini Devi Mandir",
+      "lat": 22.2441975,
+      "lng": 68.9684562,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shri Nageshwar Jyotirling",
+      "lat": 22.2573143,
+      "lng": 68.9644191,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Dwarkadhish Temple",
+      "lat": 22.3359636,
+      "lng": 69.0870088,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

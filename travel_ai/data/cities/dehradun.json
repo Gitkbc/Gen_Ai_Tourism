@@ -1,0 +1,117 @@
+{
+  "city": "Dehradun",
+  "places": [
+    {
+      "name": "Malsi Deer park",
+      "lat": 30.3883325,
+      "lng": 78.0756051,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Shiv Mandir",
+      "lat": 30.408,
+      "lng": 78.0867,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mindrolling monastery",
+      "lat": 30.2615418,
+      "lng": 77.99771,
+      "category": "Cultural & Heritage",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Nag Tibba trek",
+      "lat": 30.5861111,
+      "lng": 78.1513889,
+      "category": "Adventure & Outdoor",
+      "rating": 4.8,
+      "ticket_price": 1299.0
+    },
+    {
+      "name": "Mall road",
+      "lat": 30.20117924,
+      "lng": 78.236708,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lakshman jhila bridge",
+      "lat": 30.1263798,
+      "lng": 78.3300576,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rajaji National Park",
+      "lat": 30.01542,
+      "lng": 78.1523984,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Santala Devi temple",
+      "lat": 30.3717801,
+      "lng": 78.0163764,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indira market",
+      "lat": 30.325,
+      "lng": 78.0436,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pacific mall",
+      "lat": 43.8263024,
+      "lng": 79.3062592,
+      "category": "Shopping & Markets",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Paltan Bazaar",
+      "lat": 26.1792286,
+      "lng": 91.7532732,
+      "category": "Shopping & Markets",
+      "rating": 3.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lachhiwala nature park",
+      "lat": 30.1991577,
+      "lng": 78.1261028,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Fun n Food Kingdom",
+      "lat": 30.348544,
+      "lng": 77.959572,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Robber's Cave",
+      "lat": 30.3754,
+      "lng": 78.0598,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 25.0
+    }
+  ]
+}

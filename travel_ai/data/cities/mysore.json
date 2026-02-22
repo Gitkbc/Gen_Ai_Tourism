@@ -1,0 +1,53 @@
+{
+  "city": "Mysore",
+  "places": [
+    {
+      "name": "Shri Chamundeshwari Temple",
+      "lat": 12.8349095,
+      "lng": 77.4009409,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chamundi Betta",
+      "lat": 12.2725036,
+      "lng": 76.6707154,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lokaranjan Aqua World Underwater zoo",
+      "lat": 12.2731672,
+      "lng": 76.6707435,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 200.0
+    },
+    {
+      "name": "Mysuru Railway museum",
+      "lat": 12.304807,
+      "lng": 76.6638086,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Karanji Lake, boating, bird sanctuary",
+      "lat": 12.3163393,
+      "lng": 76.643323,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mysore Palace",
+      "lat": 12.302778,
+      "lng": 76.673611,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 25.0
+    }
+  ]
+}

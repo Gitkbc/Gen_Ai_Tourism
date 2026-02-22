@@ -1,0 +1,157 @@
+{
+  "city": "Gangtok",
+  "places": [
+    {
+      "name": "Nathula Pass",
+      "lat": 27.3865684,
+      "lng": 88.8308731,
+      "category": "Sightseeing & Exploration, Natural Landscapes & Wildlife",
+      "rating": 3.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Cable Ride at Gangtok",
+      "lat": 27.3313512,
+      "lng": 88.6138113,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Yak safari , Dzongri",
+      "lat": 27.466667,
+      "lng": 88.15,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 200.0
+    },
+    {
+      "name": "Mountain biking treks",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.2,
+      "ticket_price": 700.0
+    },
+    {
+      "name": "River rafting",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.8,
+      "ticket_price": 550.0
+    },
+    {
+      "name": "Paragliding in Baliman Dara",
+      "lat": 27.3481118,
+      "lng": 88.5957415,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Explore M.G.Marg city centre",
+      "lat": 27.3253821,
+      "lng": 88.61189,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunrise at Tashi view point",
+      "lat": 27.3706406,
+      "lng": 88.616133,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Lal Bazaar",
+      "lat": 27.3516407,
+      "lng": 88.3239309,
+      "category": "Shopping & Markets",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Tsuk La Khang Monastery",
+      "lat": 27.3261111,
+      "lng": 88.6147222,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hanuman Tok",
+      "lat": 27.3478348,
+      "lng": 88.628696,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Seven Sisters waterfall",
+      "lat": 27.44375253,
+      "lng": 88.60777208,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rumtek monastery",
+      "lat": 27.3059105,
+      "lng": 88.5362892,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.2,
+      "ticket_price": 30.0
+    },
+    {
+      "name": "Tsongmo lake",
+      "lat": 27.3741667,
+      "lng": 88.7619444,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shingba Rhododendron sanctuary",
+      "lat": 27.8012861,
+      "lng": 88.7695197,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khangchendzonga biosphere reserve",
+      "lat": 27.6672446,
+      "lng": 88.3245556,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Skiing by Mt Katao",
+      "lat": 27.6525132,
+      "lng": 88.8128996,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Banjkhari falls",
+      "lat": 27.3507643,
+      "lng": 88.6032316,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Himalayan Zoological park",
+      "lat": 27.3567013,
+      "lng": 88.6300149,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.0,
+      "ticket_price": 70.0
+    }
+  ]
+}

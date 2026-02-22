@@ -1,0 +1,133 @@
+{
+  "city": "Mumbai",
+  "places": [
+    {
+      "name": "Marine Drive",
+      "lat": 18.9432111,
+      "lng": 72.8229983,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gateway of India",
+      "lat": 18.9219841,
+      "lng": 72.8346543,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "lat": 18.9269015,
+      "lng": 72.8326916,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "NCPA Tiger safari at Borivali",
+      "lat": 19.2307329,
+      "lng": 72.856673,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Shopping at Colaba Causeway",
+      "lat": 18.9246447,
+      "lng": 72.8321315,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shopping at Linking road, Bandra",
+      "lat": 19.0642357,
+      "lng": 72.8349124,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Phoenix marketcity Mall, Kurla",
+      "lat": 19.0863795,
+      "lng": 72.8889774,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jio world drive mall, BKC",
+      "lat": 19.0543152,
+      "lng": 72.8515712,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Five gardens, Matunga",
+      "lat": 19.019747,
+      "lng": 72.854312,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.1,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Worli seaface",
+      "lat": 19.0091432,
+      "lng": 72.8157283,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Siddhivinayak Temple",
+      "lat": 19.01699,
+      "lng": 72.8303997,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahalaxmi Temple",
+      "lat": 18.9773,
+      "lng": 72.8066,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Haji Ali Dargah",
+      "lat": 18.9828273,
+      "lng": 72.8088966,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chowpatty Beach",
+      "lat": 18.9518622,
+      "lng": 72.8165592,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Essel World",
+      "lat": 19.230098,
+      "lng": 72.8013252,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.3,
+      "ticket_price": 1149.0
+    },
+    {
+      "name": "Elephanta Caves",
+      "lat": 18.9633474,
+      "lng": 72.9314864,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 550.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "city": "Kurnool",
+  "places": [
+    {
+      "name": "Belum Caves",
+      "lat": 15.1025794,
+      "lng": 78.1115072,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Rollapadu wildlife sanctuary",
+      "lat": 15.7389773,
+      "lng": 78.3650976,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Oravakallu rock garden",
+      "lat": 15.6928965,
+      "lng": 78.1521842,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahanandi village",
+      "lat": 15.4707317,
+      "lng": 78.6254084,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Kurnool fort",
+      "lat": 15.8323892,
+      "lng": 78.0544946,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.7,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Ahobilam temple",
+      "lat": 15.1337667,
+      "lng": 78.6741657,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    }
+  ]
+}

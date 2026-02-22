@@ -1,0 +1,37 @@
+{
+  "city": "Sambalpur",
+  "places": [
+    {
+      "name": "Hirakud Dam",
+      "lat": 21.5305898,
+      "lng": 85.8651767,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Debrigarh Wildlife Sanctuary",
+      "lat": 21.4668716,
+      "lng": 83.8704949,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 40.0
+    },
+    {
+      "name": "Ghanteswari temple",
+      "lat": 21.3546732,
+      "lng": 83.9811665,
+      "category": "\tReligious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gudguda waterfall",
+      "lat": 21.4668716,
+      "lng": 83.9192152,
+      "category": "Natural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

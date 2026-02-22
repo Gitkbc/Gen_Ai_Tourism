@@ -1,0 +1,61 @@
+{
+  "city": "Port Blair",
+  "places": [
+    {
+      "name": "Kala Pani Cellular Jail",
+      "lat": 11.6747447,
+      "lng": 92.7478601,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Ross island",
+      "lat": 11.6758295,
+      "lng": 92.7624249,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Underwater Sea walk",
+      "lat": 10.7448873,
+      "lng": 92.4999918,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.0,
+      "ticket_price": 1000.0
+    },
+    {
+      "name": "Jolly Buoy island",
+      "lat": 11.5077351,
+      "lng": 92.612149,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahatma Gandhi National Park",
+      "lat": 11.58709,
+      "lng": 92.6155601,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mount Harriet National park",
+      "lat": 11.7201967,
+      "lng": 92.7334546,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 400.0
+    },
+    {
+      "name": "Barren island volcano",
+      "lat": 12.2792303,
+      "lng": 93.8604402,
+      "category": "Natural Landscapes & Wildlife, Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    }
+  ]
+}

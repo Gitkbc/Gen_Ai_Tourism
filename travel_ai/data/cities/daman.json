@@ -1,0 +1,21 @@
+{
+  "city": "Daman",
+  "places": [
+    {
+      "name": "Nani Daman market",
+      "lat": 20.4148699,
+      "lng": 72.8353005,
+      "category": "Shopping & Markets",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "St.Jerome Fort",
+      "lat": 20.55466502,
+      "lng": 71.88570098,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.0,
+      "ticket_price": 70.0
+    }
+  ]
+}

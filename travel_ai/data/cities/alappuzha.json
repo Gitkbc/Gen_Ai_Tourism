@@ -1,0 +1,69 @@
+{
+  "city": "Alappuzha",
+  "places": [
+    {
+      "name": "Shree Krishna Swamy Temple",
+      "lat": 30.752535,
+      "lng": 76.8101038,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Marari Beach",
+      "lat": 9.6008,
+      "lng": 76.2983,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "International Coi Museum",
+      "lat": 9.6007506,
+      "lng": 76.2982585,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Alleppey Backwater",
+      "lat": 9.5239,
+      "lng": 76.3568,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Chakkulathukavu Sree Bhagwathi Temple",
+      "lat": 9.5238612,
+      "lng": 76.3567633,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mannarasala Sree Nagaraja Temple",
+      "lat": 9.3669421,
+      "lng": 76.5141883,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "St.Andrew's Basilica",
+      "lat": 9.2896809,
+      "lng": 76.4456832,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Alappuzha Beach",
+      "lat": 9.6611287,
+      "lng": 76.3002896,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}

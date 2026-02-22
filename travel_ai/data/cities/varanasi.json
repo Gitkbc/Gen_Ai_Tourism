@@ -1,0 +1,93 @@
+{
+  "city": "Varanasi",
+  "places": [
+    {
+      "name": "Kashi Vishwanath Temple",
+      "lat": 25.3108532,
+      "lng": 83.0106783,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ramnagar Fort",
+      "lat": 25.2695094,
+      "lng": 83.0250876,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.1,
+      "ticket_price": 25.0
+    },
+    {
+      "name": "Dashashwamedh Ghat",
+      "lat": 25.3061863,
+      "lng": 83.0102857,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sunset Boat Ride on the Ganges",
+      "lat": 27.40364009,
+      "lng": 83.00912405,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Sarnath pilgrim spot",
+      "lat": 25.3715564,
+      "lng": 83.0252136,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Puran Das Road",
+      "lat": 25.3176452,
+      "lng": 82.9739144,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Gol Ganj",
+      "lat": 25.3176452,
+      "lng": 82.9739144,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mandir Gali",
+      "lat": 25.3141329,
+      "lng": 83.0119239,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Assi Ghat",
+      "lat": 25.2886478,
+      "lng": 83.0067619,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Godowlia market",
+      "lat": 25.3100747,
+      "lng": 83.0096485,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "The Banarasi Silk Emporium",
+      "lat": 25.315424,
+      "lng": 82.9975498,
+      "category": "Shopping & Markets",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    }
+  ]
+}

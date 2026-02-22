@@ -1,0 +1,61 @@
+{
+  "city": "Siliguri",
+  "places": [
+    {
+      "name": "Jaldapara National Park",
+      "lat": 26.6905136,
+      "lng": 89.2805351,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 250.0
+    },
+    {
+      "name": "Salugara monastery",
+      "lat": 26.7670442,
+      "lng": 88.4452226,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "ISKON temple",
+      "lat": 26.729,
+      "lng": 88.4433,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahananda Wildlife Sanctuary",
+      "lat": 26.7961932,
+      "lng": 88.3630076,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Hong Kong market",
+      "lat": 22.3193039,
+      "lng": 114.1693611,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "North Bengal Science centre",
+      "lat": 26.7230488,
+      "lng": 88.3868987,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.3,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Sepoy Dhura Tea garden",
+      "lat": 26.8372379,
+      "lng": 88.3457906,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 25.0
+    }
+  ]
+}

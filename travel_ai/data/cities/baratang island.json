@@ -1,0 +1,45 @@
+{
+  "city": "Baratang Island",
+  "places": [
+    {
+      "name": "Mangrove creeks",
+      "lat": 10.7448873,
+      "lng": 92.4999918,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Parrot island",
+      "lat": 10.7448873,
+      "lng": 92.4999918,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Baludera beach",
+      "lat": 12.1336095,
+      "lng": 92.8042375,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Coral gazing at Mohwa Dera",
+      "lat": 10.7448873,
+      "lng": 92.4999918,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Limestone Caves",
+      "lat": 10.7448873,
+      "lng": 92.4999918,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "city": "Jaipur",
+  "places": [
+    {
+      "name": "Birla Mandir",
+      "lat": 23.0714235,
+      "lng": 72.5167854,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Shree Khole Ki Hanuman Mandir",
+      "lat": 26.907524,
+      "lng": 75.739639,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Cental Park",
+      "lat": 26.9049,
+      "lng": 75.8087,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Moti Dungri Ganesh Ji Temple",
+      "lat": 26.8947,
+      "lng": 75.8167,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Jantar Mantar",
+      "lat": 26.8946582,
+      "lng": 75.8167154,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Amber Palace",
+      "lat": 28.6270547,
+      "lng": 77.2166267,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hawa Mahal",
+      "lat": 26.9854865,
+      "lng": 75.8513454,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.4,
+      "ticket_price": 50.0
+    },
+    {
+      "name": "Nahargarh Fort",
+      "lat": 24.609382,
+      "lng": 72.7229797,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.6,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Jaigarh Fort",
+      "lat": 26.9401659,
+      "lng": 75.8170373,
+      "category": "Cultural & Heritage Sites",
+      "rating": 4.5,
+      "ticket_price": 35.0
+    }
+  ]
+}

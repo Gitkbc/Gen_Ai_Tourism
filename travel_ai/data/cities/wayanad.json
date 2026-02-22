@@ -1,0 +1,37 @@
+{
+  "city": "Wayanad",
+  "places": [
+    {
+      "name": "Lakkidi View point",
+      "lat": 11.2626228,
+      "lng": 75.7673095,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Edakkal Caves",
+      "lat": 11.5121995,
+      "lng": 76.0189339,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.1,
+      "ticket_price": 70.0
+    },
+    {
+      "name": "Karapuzha Dam, adventure park, garden",
+      "lat": 11.6268407,
+      "lng": 76.234269,
+      "category": "Adventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Wayanad Wildlife Sanctuary",
+      "lat": 11.6182901,
+      "lng": 76.1678346,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 300.0
+    }
+  ]
+}

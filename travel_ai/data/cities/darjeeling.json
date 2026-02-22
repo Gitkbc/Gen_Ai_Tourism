@@ -1,0 +1,181 @@
+{
+  "city": "Darjeeling",
+  "places": [
+    {
+      "name": "Tiger Hill",
+      "lat": 26.9966667,
+      "lng": 88.2944444,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Darjeeling Toy Train",
+      "lat": 27.0410218,
+      "lng": 88.2662745,
+      "category": "Adventure & Outdoor Activities,Sightseeing & Exploration",
+      "rating": 4.8,
+      "ticket_price": 360.0
+    },
+    {
+      "name": "Darjeeling Ropeway",
+      "lat": 27.0614867,
+      "lng": 88.2537138,
+      "category": "Adventure & Outdoor Activities,Sightseeing & Exploration",
+      "rating": 5.0,
+      "ticket_price": 175.0
+    },
+    {
+      "name": "Chowk Bazaar",
+      "lat": 23.2587841,
+      "lng": 77.4016401,
+      "category": "Shopping & Markets",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Himalayan Mountaineering Institute(Museum, Library, Souvenir shop)",
+      "lat": 27.330132,
+      "lng": 88.15141804,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.9,
+      "ticket_price": 1650.0
+    },
+    {
+      "name": "Darjeeling Rock garden",
+      "lat": 27.0262862,
+      "lng": 88.236347,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 5.0,
+      "ticket_price": 10.0
+    },
+    {
+      "name": "Singalila National Park(camping, bird watching)",
+      "lat": 27.0371351,
+      "lng": 88.0762233,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Kanchenjunga peak",
+      "lat": 27.7024914,
+      "lng": 88.147535,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.9,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Sandakphu trek",
+      "lat": 26.9930536,
+      "lng": 88.1203558,
+      "category": "\tAdventure & Outdoor Activities",
+      "rating": 4.4,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Teesta river(rafting)",
+      "lat": 26.57695557,
+      "lng": 89.01279803,
+      "category": "Adventure & Outdoor Activities, Natural Landscapes & Wildlife",
+      "rating": 5.0,
+      "ticket_price": 500.0
+    },
+    {
+      "name": "Happy valley tea estate",
+      "lat": 27.051391,
+      "lng": 88.258613,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.9,
+      "ticket_price": 100.0
+    },
+    {
+      "name": "Lamhatta Eco Park",
+      "lat": 27.0548913,
+      "lng": 88.3526049,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.7,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Lepchajagat village",
+      "lat": 27.0127838,
+      "lng": 88.1992421,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.2,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mahakal temple",
+      "lat": 23.182905,
+      "lng": 75.768291,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.8,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Everest museum",
+      "lat": 27.9881206,
+      "lng": 86.9249751,
+      "category": "Arts, Science & Literature Attractions",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ring Mall",
+      "lat": 27.0397,
+      "lng": 88.2648,
+      "category": "Shopping & Markets",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Padmaja Naidu zoological park",
+      "lat": 27.0586099,
+      "lng": 88.254405,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 4.5,
+      "ticket_price": 110.0
+    },
+    {
+      "name": "Nightingale park",
+      "lat": 27.0537,
+      "lng": 88.2601,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.9,
+      "ticket_price": 20.0
+    },
+    {
+      "name": "Dali Monastery",
+      "lat": 27.0237303,
+      "lng": 88.2547445,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 4.3,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Ghoom monastery market",
+      "lat": 27.0008384,
+      "lng": 88.2436844,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Teesta bazaar",
+      "lat": 27.0662177,
+      "lng": 88.4246364,
+      "category": "Shopping & Markets",
+      "rating": 4.4,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Mall road",
+      "lat": 27.2,
+      "lng": 88.15,
+      "category": "Shopping & Markets",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    }
+  ]
+}

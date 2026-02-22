@@ -1,0 +1,53 @@
+{
+  "city": "Rourkela",
+  "places": [
+    {
+      "name": "Jagannath Temple",
+      "lat": 22.2478283,
+      "lng": 86.091184,
+      "category": "Religious & Spiritual Pilgrimages",
+      "rating": 3.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Indira Gandhi Park",
+      "lat": 22.2402062,
+      "lng": 84.8777569,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Pitamahal dam",
+      "lat": 22.2273546,
+      "lng": 84.8747082,
+      "category": "Natural Landscapes & Wildlife",
+      "rating": 3.6,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "VIP market",
+      "lat": 22.2477991,
+      "lng": 84.7472931,
+      "category": "Shopping & Markets",
+      "rating": 4.0,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Hanuman Vatika garden",
+      "lat": 22.2217242,
+      "lng": 84.867526,
+      "category": "Sightseeing & Exploration",
+      "rating": 4.9,
+      "ticket_price": 0.0
+    },
+    {
+      "name": "Khandadhar Waterfall",
+      "lat": 22.260423,
+      "lng": 84.8315341,
+      "category": "\tNatural Landscapes & Wildlife, Adventure & Outdoor Activities",
+      "rating": 4.5,
+      "ticket_price": 0.0
+    }
+  ]
+}
