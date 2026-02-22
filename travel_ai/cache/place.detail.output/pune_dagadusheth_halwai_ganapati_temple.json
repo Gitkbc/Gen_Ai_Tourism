@@ -1,0 +1,25 @@
+{
+  "place": "Dagadusheth Halwai Ganapati temple",
+  "destination_city": "Pune",
+  "local_language": "Marathi",
+  "local_text": "डागडुशेठ हलवाई गणपती मंदिरात स्वागत आहे. पुण्यातील एक पवित्र स्थळ. १८९३ मध्ये बांधलेले, हे मंदिर डागडुशेठ हलवाईच्या गणेशभक्तीचे प्रतीक आहे. मंदिराची आकर्षक वास्तुकला भारतीय व युरोपीय शैलींचे मिश्रण आहे. भगवान गणेशची मूर्ती ४० किलो सोन्याने सजवलेली आहे. हे मंदिर पुण्याचे एक महत्त्वाचे सांस्कृतिक स्थळ आहे. सकाळच्या वेळेत मंदिराचे शांत वातावरण अनुभवा व दैनिक पूजा रस्मांत भाग घ्या. मंदिराचा पत्ता लागताना सुसज्जित नक्काशी व अलंकृत सजावटीवर लक्ष द्या.",
+  "constraints": [
+    "The temple is open from 6:00 AM to 10:00 PM. Visitors are advised to dress modestly and remove their footwear before entering the temple."
+  ],
+  "special_cautions": [
+    "Please refrain from taking photographs inside the temple. Maintain silence and respect the rituals and traditions of the temple. Avoid touching or climbing on the temple walls and structures."
+  ],
+  "outputs": {
+    "english": {
+      "text": "Welcome to the Dagadusheth Halwai Ganapati temple, a revered shrine in Pune. Built in 1893, this temple is a testament to the devotion of Dagadusheth Halwai, a sweet vendor who dedicated his life to the worship of Lord Ganesha. The temple's striking architecture is a blend of Indian and European styles, with a striking orange and white façade. The idol of Lord Ganesha is adorned with over 40 kilograms of gold, making it a stunning sight. This temple is a significant cultural landmark in Pune, attracting millions of devotees every year. Visit during the morning hours to experience the serene atmosphere and participate in the daily puja rituals. As you explore the temple, notice the intricate carvings and ornate decorations that reflect the rich cultural heritage of Pune.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/pune_dagadusheth_halwai_ganapati_temple_en.mp3",
+      "audio_url": "/cache/place.detail.output/pune_dagadusheth_halwai_ganapati_temple_en.mp3"
+    },
+    "hindi": {
+      "text": "स्वागत है दगडुशेठ हलवाई गणपति मंदिर में, पुणे के एक पवित्र स्थल पर। 1893 में निर्मित, यह मंदिर दगडुशेठ हलवाई की भगवान गणेश के प्रति समर्पण का प्रतीक है, जिन्होंने अपना जीवन भगवान गणेश की पूजा में समर्पित कर दिया। मंदिर की आकर्षक वास्तुकला भारतीय और यूरोपीय शैलियों का मिश्रण है, जिसका नारंगी और सफ़ेद रंग का आवरण देखने लायक है। भगवान गणेश की मूर्ति 40 किलोग्राम सोने से सजी हुई है, जो एक देखने लायक दृश्य है। यह मंदिर पुणे का एक महत्वपूर्ण सांस्कृतिक स्थल है, जो हर साल लाखों श्रद्धालुओं को आकर्षित करता है। सुबह के समय में मंदिर की शांत वातावरण का अनुभव करें और दैनिक पूजा रस्मों में भाग लें। मंदिर का पता लगाते समय, सुसज्जित नक्काशी और अलंकृत सजावट पर ध्यान दें, जो पुणे की समृद्ध सांस्कृतिक विरासत को दर्शाती हैं।",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/pune_dagadusheth_halwai_ganapati_temple_hi.mp3",
+      "audio_url": "/cache/place.detail.output/pune_dagadusheth_halwai_ganapati_temple_hi.mp3"
+    }
+  },
+  "created_at": "2026-02-22T18:41:49.100734Z"
+}

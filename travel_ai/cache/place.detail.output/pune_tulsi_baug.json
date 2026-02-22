@@ -1,0 +1,30 @@
+{
+  "place": "Tulsi Baug",
+  "destination_city": "Pune",
+  "local_language": "Marathi",
+  "local_text": "तुलसीबागात तुमचे स्वागत आहे, पुण्याच्या हृदयभागातील एक ऐतिहासिक बाजार चौक आहे. १७६१ साली पेशवे बालाजी बाजीराव यांनी बांधलेले, हे व्यस्त हब पेशव्यांचे आवडते ठिकाण होते, मराठा साम्राज्याचे शक्तिशाली प्रधानमंत्री. टुलसी पौध्याच्या नावावर नामित, हिंदू धर्मात पवित्र मानले जाते. मराठा आणि इस्लामिक शैलीचे मिश्रण असलेले स्थापत्य कलेचे कौतुक करा, ज्यात जटिल नक्काशी आणि अलंकृत फसाडे आहेत. सूरज डूबत असताना चौक सडक विक्रेते, खाने दुकाने आणि स्थानिक खरेदीदार यांनी जीवंत होतो. या दुपारच्या वेळेत पुराने पुण्याची जीवंत ऊर्जा अनुभवा.",
+  "constraints": [
+    "Open from 10:00 to 20:00",
+    "No entry fee",
+    "Wheelchair accessible"
+  ],
+  "special_cautions": [
+    "Dress modestly",
+    "Remove footwear before entering temples",
+    "Respect local vendors and shoppers",
+    "Be mindful of your belongings in crowded areas"
+  ],
+  "outputs": {
+    "english": {
+      "text": "Welcome to Tulsi Baug, a historic market square in the heart of Pune. Built in 1761 by Peshwa Balaji Bajirao, this bustling hub was once a favorite haunt of the Peshwas, the powerful prime ministers of the Maratha Empire. The square is named after the sacred Tulsi plant, revered in Hinduism. Admire the stunning architecture, a blend of Maratha and Islamic styles, with intricate carvings and ornate facades. As the sun begins to set, the square comes alive with street vendors, food stalls, and local shoppers. Visit during this afternoon time slot to experience the vibrant energy of old Pune.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/pune_tulsi_baug_en.mp3",
+      "audio_url": "/cache/place.detail.output/pune_tulsi_baug_en.mp3"
+    },
+    "hindi": {
+      "text": "टुलसी बाग में आपका स्वागत है, पुणे के दिल में एक ऐतिहासिक बाजार चौक है. 1761 में पेशवा बालाजी बाजीराव द्वारा निर्मित, यह व्यस्त हब पेशवाओं का पसंदीदा ठिकाना था, मराठा साम्राज्य के शक्तिशाली प्रधानमंत्री. टुलसी पौधे के नाम पर नामित, हिंदू धर्म में पवित्र माना जाता है. मराठा और इस्लामिक शैली के मिश्रण से बनी स्थापत्य कला की प्रशंसा करें, जिसमें जटिल नक्काशी और अलंकृत फसाड़े हैं. सूरज डूबने के समय, चौक सड़क विक्रेताओं, खाने की दुकानों और स्थानीय खरीदारों से जीवंत हो जाता है. इस दोपहर के समय स्लॉट में पुराने पुणे की जीवंत ऊर्जा का अनुभव करें.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/pune_tulsi_baug_hi.mp3",
+      "audio_url": "/cache/place.detail.output/pune_tulsi_baug_hi.mp3"
+    }
+  },
+  "created_at": "2026-02-22T18:59:38.462795Z"
+}

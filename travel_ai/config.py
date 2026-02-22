@@ -24,7 +24,7 @@ MODEL_NAME = "meta-llama/llama-3-70b-instruct"
 # Controls the randomness of the model's output. Higher values (e.g., 0.8)
 # make the output more creative, while lower values (e.g., 0.2) make it
 # more deterministic.
-TEMPERATURE = 0.7
+TEMPERATURE = 0.3
 
 # The maximum time in seconds to wait for a response from the API.
 REQUEST_TIMEOUT = 60

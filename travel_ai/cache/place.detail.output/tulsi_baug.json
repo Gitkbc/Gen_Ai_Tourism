@@ -1,0 +1,30 @@
+{
+  "place": "Tulsi Baug",
+  "destination_city": "",
+  "local_language": "Marathi",
+  "local_text": "तुलसी बागात तुमचे स्वागत आहे, पुण्याच्या हृदयातील एक ऐतिहासिक बाजार आहे. १७६१ मध्ये पेशवे शासक नानासाहेब पेशवे यांनी स्थापित, हा बाजार शतकांपासून वाणिज्य आणि सामाजिक कार्यक्रमाचे केंद्र आहे. 'तुलसी बाग' नाव हिंदू धर्मातील पवित्र वनस्पतीच्या नावावर ठेवले आहे. हा बाजार शहराच्या समृद्ध सांस्कृतिक वारसाचे प्रतीक आहे, ज्याचा वातावरण आणि सडकीच्या खाने दुकाने आणि मंदिर एक अनोखा मिश्रण आहे. सूर्यास्तानंतर बाजार जीवंत होतो, स्थानिक लोक आणि पर्यटक एकत्र, हे पाहण्याचे आदर्श वेळ आहे. संकीर्ण गल्यातून फिरा, स्थानिक व्यंजनांचा आनंद घ्या, आणि या पुण्याच्या प्रतीक स्थळाच्या दृश्य आणि ध्वनीत डुबकी मारा.",
+  "constraints": [
+    "Open from 10:00 to 20:00",
+    "No entry fee",
+    "Wear comfortable shoes for walking"
+  ],
+  "special_cautions": [
+    "Dress modestly",
+    "Remove footwear before entering temples",
+    "Be respectful of local vendors and shoppers",
+    "Be prepared for crowded alleys"
+  ],
+  "outputs": {
+    "english": {
+      "text": "Welcome to Tulsi Baug, a historic marketplace in the heart of Pune. Established in 1761 by the Peshwa ruler, Nanasaheb Peshwa, this bustling bazaar has been a hub of commerce and social activity for centuries. The name 'Tulsi Baug' translates to 'Garden of Basil,' which was a sacred plant in Hinduism. This marketplace is a testament to the city's rich cultural heritage, with its vibrant atmosphere and eclectic mix of shops, street food stalls, and temples. As the sun sets, the market comes alive with locals and tourists alike, making it an ideal time to visit. Take a stroll through the narrow alleys, indulge in local delicacies, and soak in the sights and sounds of this iconic Pune landmark.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/tulsi_baug_en.mp3",
+      "audio_url": "/cache/place.detail.output/tulsi_baug_en.mp3"
+    },
+    "hindi": {
+      "text": "टुलसी बाग में आपका स्वागत है, पुणे के दिल में स्थित एक ऐतिहासिक बाज़ार है. 1761 में पेशवा शासक नानासाहेब पेशवा द्वारा स्थापित, यह बाज़ार सदियों से वाणिज्य और सामाजिक गतिविधि का केंद्र रहा है. 'टुलसी बाग' नाम हिंदू धर्म में पवित्र पौधे के नाम पर रखा गया है. यह बाज़ार शहर की समृद्ध सांस्कृतिक विरासत का प्रतीक है, जिसका वातावरण और सड़क के खाने की दुकानें और मंदिर एक अनोखा मिश्रण हैं. सूरज डूबने के बाद बाज़ार जीवंत हो जाता है, स्थानीय लोगों और पर्यटकों के साथ, इसे देखने का आदर्श समय है. संकीर्ण गलियों से घूमें, स्थानीय व्यंजनों का आनंद लें, और इस पुणे के प्रतीक स्थल के दृश्य और ध्वनि में डूब जाएं.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/tulsi_baug_hi.mp3",
+      "audio_url": "/cache/place.detail.output/tulsi_baug_hi.mp3"
+    }
+  },
+  "created_at": "2026-02-22T18:06:39.167072Z"
+}

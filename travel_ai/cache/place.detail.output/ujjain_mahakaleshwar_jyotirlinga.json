@@ -1,0 +1,29 @@
+{
+  "place": "Mahakaleshwar Jyotirlinga",
+  "destination_city": "Ujjain",
+  "local_language": "Malwi",
+  "local_text": "महाकालेश्वर ज्योतिर्लिंगजी के दर्शन के लिए स्वागत हे। उज्जैन शहरात प्राचीन कालात स्थित हे मंदिर भगवान शिवजी को समर्पित हे आहे। हे मंदिर हिंदू धर्मात पवित्र तीर्थ स्थल मानले जाते। मंदिराचा इतिहास ४थी शताब्दी ईसा पूर्वाचा आहे। मंदिराची वास्तुकला मराठा आणि इस्लामिक शैलीचा मिश्रण आहे। मंदिरात सुंदर लिंगम आहे, जे स्वयंभू मानले जाते। सुबह के दर्शन के दौरान आम्ही मंदिराचे शांत वातावरण अनुभव करू शकतो आणि पवित्र अनुष्ठानात भाग घेऊ शकतो।",
+  "constraints": [
+    "Temple timings: 5:00 AM to 10:00 PM",
+    "Dress code: Modest clothing, no shorts or sleeveless tops",
+    "Photography restrictions: No flash photography inside the temple"
+  ],
+  "special_cautions": [
+    "Remove footwear before entering the temple",
+    "Respect the sacred rituals and traditions",
+    "Be cautious of steep steps and uneven flooring"
+  ],
+  "outputs": {
+    "english": {
+      "text": "Welcome to the revered Mahakaleshwar Jyotirlinga, one of the twelve sacred Jyotirlingas in India. Located in the ancient city of Ujjain, this temple is dedicated to Lord Shiva and is considered one of the most sacred pilgrimage sites in Hinduism. The temple's history dates back to the 4th century BCE, with the current structure built during the Maratha period in the 18th century. The temple's architecture is a blend of Maratha and Islamic styles, with intricate carvings and ornate decorations adorning its walls. The temple's sanctum sanctorum houses a stunning lingam, which is said to be swayambhu, or self-manifested. As we visit the temple during the early morning darshan, we can experience the serene atmosphere and participate in the sacred rituals. Ujjain, being an ancient city, has a rich cultural heritage, and the Mahakaleshwar Jyotirlinga is an integral part of it, symbolizing the city's spiritual identity.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/ujjain_mahakaleshwar_jyotirlinga_en.mp3",
+      "audio_url": "/cache/place.detail.output/ujjain_mahakaleshwar_jyotirlinga_en.mp3"
+    },
+    "hindi": {
+      "text": "महाकालेश्वर ज्योतिर्लिंग का स्वागत है। भारत में 12 पवित्र ज्योतिर्लिंगों में से एक, उज्जैन के प्राचीन शहर में स्थित यह मंदिर भगवान शिव को समर्पित है और हिंदू धर्म में सबसे पवित्र तीर्थ स्थलों में से एक माना जाता है। मंदिर का इतिहास 4वीं शताब्दी ईसा पूर्व का है, जबकि वर्तमान संरचना 18वीं शताब्दी में मराठा काल में बनाई गई थी। मंदिर की वास्तुकला मराठा और इस्लामिक शैलियों का मिश्रण है, जिसकी दीवारों पर जटिल नक्काशी और अलंकृत सजावट हैं। मंदिर के गर्भगृह में एक सुंदर लिंगम है, जिसे स्वयंभू, या स्वयं प्रकट माना जाता है। सुबह के दर्शन के दौरान हम मंदिर के शांत वातावरण का अनुभव कर सकते हैं और पवित्र अनुष्ठानों में भाग ले सकते हैं। उज्जैन, एक प्राचीन शहर है, जिसकी समृद्ध सांस्कृतिक विरासत है, और महाकालेश्वर ज्योतिर्लिंग शहर की आध्यात्मिक पहचान का प्रतीक है।",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/ujjain_mahakaleshwar_jyotirlinga_hi.mp3",
+      "audio_url": "/cache/place.detail.output/ujjain_mahakaleshwar_jyotirlinga_hi.mp3"
+    }
+  },
+  "created_at": "2026-02-22T18:23:27.510132Z"
+}

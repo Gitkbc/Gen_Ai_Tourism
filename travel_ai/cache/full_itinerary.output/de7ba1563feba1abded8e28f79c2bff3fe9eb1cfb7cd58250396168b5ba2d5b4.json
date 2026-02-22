@@ -1,0 +1,223 @@
+{
+  "cache_key": "de7ba1563feba1abded8e28f79c2bff3fe9eb1cfb7cd58250396168b5ba2d5b4",
+  "created_at": "2026-02-22T18:33:06.638104Z",
+  "request": {
+    "home_city": "mumbai",
+    "destination_city": "pune",
+    "num_days": 3,
+    "budget": 25000.0,
+    "interests": [
+      "architecture",
+      "history"
+    ]
+  },
+  "response": {
+    "itinerary": {
+      "title": "Pune Exploration",
+      "hotel_recommendation": {
+        "area": "Deccan",
+        "reason": "Centrally located, close to major attractions and food outlets"
+      },
+      "days": [
+        {
+          "day": 1,
+          "day_time_window": "08:00-20:00",
+          "geographic_flow_explanation": "Exploring Old City core, moving from west to east",
+          "total_walking_km_estimate": 3.5,
+          "schedule_blocks": [
+            {
+              "time": "08:00-09:00",
+              "place": "Vishrambaug Wada",
+              "reason_for_time_choice": "Morning visit to historic monument",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vishrambaug_Wada_Pune.jpg/1024px-Vishrambaug_Wada_Pune.jpg"
+            },
+            {
+              "time": "10:30-11:30",
+              "place": "Lal Mahal",
+              "reason_for_time_choice": "Close proximity to Vishrambaug Wada",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lal_Mahal_Pune.jpg/1024px-Lal_Mahal_Pune.jpg"
+            },
+            {
+              "time": "14:00-15:00",
+              "place": "Kasba Peth",
+              "reason_for_time_choice": "Old city core exploration",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kasba_Peth_Pune.jpg/1024px-Kasba_Peth_Pune.jpg"
+            },
+            {
+              "time": "17:00-18:00",
+              "place": "Tulsi Baug",
+              "reason_for_time_choice": "Afternoon visit to old city core",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tulsibaug_Pune.jpg/1024px-Tulsibaug_Pune.jpg"
+            }
+          ],
+          "food_halts": [
+            {
+              "time": "08:00-09:00",
+              "meal_type": "Breakfast",
+              "outlet": "Vohuman Cafe",
+              "signature_dish": "Poha Jalebi",
+              "area": "Deccan",
+              "reason_selected": "Iconic breakfast spot near hotel"
+            },
+            {
+              "time": "13:00-14:00",
+              "meal_type": "Lunch",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Traditional Maharashtrian Thali near old city core"
+            },
+            {
+              "time": "16:30-17:30",
+              "meal_type": "Snacks",
+              "outlet": "Santosh Bakery",
+              "signature_dish": "Vada Pav",
+              "area": "Koregaon Park",
+              "reason_selected": "Famous street food near Shaniwar Wada"
+            },
+            {
+              "time": "20:00-21:00",
+              "meal_type": "Dinner",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Convenient dinner near hotel"
+            }
+          ],
+          "estimated_day_cost": 1400.0
+        },
+        {
+          "day": 2,
+          "day_time_window": "08:00-20:00",
+          "geographic_flow_explanation": "Exploring temples and forts, moving from east to west",
+          "total_walking_km_estimate": 2.5,
+          "schedule_blocks": [
+            {
+              "time": "08:30-09:30",
+              "place": "Phoenix Marketcity Pune",
+              "reason_for_time_choice": "Mandatory top-ranked place from initial destination ranking.",
+              "image_url": ""
+            },
+            {
+              "time": "12:30-13:30",
+              "place": "Dagadusheth Halwai Ganapati temple",
+              "reason_for_time_choice": "Mandatory top-ranked place from initial destination ranking.",
+              "image_url": ""
+            },
+            {
+              "time": "16:30-17:30",
+              "place": "Chatushrungi Devi Temple",
+              "reason_for_time_choice": "Morning visit to temple",
+              "image_url": ""
+            }
+          ],
+          "food_halts": [
+            {
+              "time": "08:00-09:00",
+              "meal_type": "Breakfast",
+              "outlet": "Kesari Wada",
+              "signature_dish": "Misal Pav",
+              "area": "Shani Shingnapur",
+              "reason_selected": "Iconic breakfast spot near temple"
+            },
+            {
+              "time": "13:00-14:00",
+              "meal_type": "Lunch",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Traditional Maharashtrian Thali near Sinhagad Fort"
+            },
+            {
+              "time": "16:30-17:30",
+              "meal_type": "Snacks",
+              "outlet": "Dorabjee & Sons",
+              "signature_dish": "Irani Chai and Bun Maska",
+              "area": "Camp",
+              "reason_selected": "Famous Irani Cafe near Sinhagad Fort"
+            },
+            {
+              "time": "20:00-21:00",
+              "meal_type": "Dinner",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Convenient dinner near hotel"
+            }
+          ],
+          "estimated_day_cost": 1400.0
+        },
+        {
+          "day": 3,
+          "day_time_window": "08:00-20:00",
+          "geographic_flow_explanation": "Exploring museums and markets, moving from west to east",
+          "total_walking_km_estimate": 2.5,
+          "schedule_blocks": [
+            {
+              "time": "08:30-10:00",
+              "place": "Sinhagad Fort",
+              "reason_for_time_choice": "Mandatory top-ranked place from initial destination ranking.",
+              "image_url": ""
+            },
+            {
+              "time": "16:30-17:30",
+              "place": "Raja Dinkar Kelkar Museum",
+              "reason_for_time_choice": "Morning visit to museum",
+              "image_url": ""
+            }
+          ],
+          "food_halts": [
+            {
+              "time": "08:00-09:00",
+              "meal_type": "Breakfast",
+              "outlet": "Vohuman Cafe",
+              "signature_dish": "Poha Jalebi",
+              "area": "Deccan",
+              "reason_selected": "Iconic breakfast spot near hotel"
+            },
+            {
+              "time": "13:00-14:00",
+              "meal_type": "Lunch",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Traditional Maharashtrian Thali near museum"
+            },
+            {
+              "time": "16:30-17:30",
+              "meal_type": "Snacks",
+              "outlet": "Santosh Bakery",
+              "signature_dish": "Vada Pav",
+              "area": "Koregaon Park",
+              "reason_selected": "Famous street food near market"
+            },
+            {
+              "time": "20:00-21:00",
+              "meal_type": "Dinner",
+              "outlet": "Shreyas Hotel",
+              "signature_dish": "Thali",
+              "area": "Aundh",
+              "reason_selected": "Convenient dinner near hotel"
+            }
+          ],
+          "estimated_day_cost": 1710.0
+        }
+      ],
+      "total_estimated_cost": 4510.0,
+      "within_budget": true
+    },
+    "metadata": {
+      "total_latency_ms": 130689.73,
+      "num_places_discovered": 13,
+      "num_clusters": 5,
+      "mandatory_top_places": [
+        "Dagadusheth Halwai Ganapati temple",
+        "Chatushrungi Devi Temple",
+        "Sinhagad Fort",
+        "Phoenix Marketcity Pune"
+      ],
+      "cache_hit": false,
+      "returned_within_30_seconds": false
+    }
+  }
+}

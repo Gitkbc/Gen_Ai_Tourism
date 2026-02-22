@@ -1,0 +1,19 @@
+{
+  "place": "Lal Mahal",
+  "destination_city": "",
+  "local_language": "Marathi",
+  "local_text": "लाल महालात आपले स्वागत आहे, पुण्यातील १७व्या शतकातील एक महाल, ज्याची निर्मिती १६३१ मध्ये शिवाजी महाराजांनी त्यांच्या पत्नी जिजाबाई आणि पुत्र संभाजी महाराज यांच्यासाठी केली होती. हे ऐतिहासिक स्थळ मराठा साम्राज्याची भव्यता दर्शविते. महालाची वास्तुकला मुगल आणि मराठा शैल्यांचे मिश्रण आहे, ज्यात जटिल नक्काशी आणि अलंकृत सजावट आहे. सुबह १०:३० ते ११:३० वाजेपर्यंत लाल महालाचा दौरा करा, जेव्हा सुबहच्या नरम रोशनीत त्याची सुंदरता दिसते.",
+  "outputs": {
+    "english": {
+      "text": "Welcome to Lal Mahal, a 17th-century palace in Pune, built by Shivaji Maharaj in 1631 as a residence for his wife, Jijabai and son, Sambhaji Maharaj. This historic site showcases the grandeur of the Maratha Empire. The palace's architecture is a blend of Mughal and Maratha styles, with intricate carvings and ornate decorations. Visit Lal Mahal between 10:30 and 11:30 am to appreciate its beauty in the soft morning light. This time slot is ideal as the morning sun highlights the palace's intricate details, making it a photographer's delight.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/lal_mahal_en.mp3",
+      "audio_url": "/cache/place.detail.output/lal_mahal_en.mp3"
+    },
+    "hindi": {
+      "text": "लाल महल में आपका स्वागत है, पुणे में 17वीं शताब्दी का एक महल, जिसका निर्माण 1631 में शिवाजी महाराज ने अपनी पत्नी जिजाबाई और पुत्र संभाजी महाराज के लिए किया था. यह ऐतिहासिक स्थल मराठा साम्राज्य की भव्यता का प्रदर्शन करता है. महल की वास्तुकला मुगल और मराठा शैलियों का मिश्रण है, जिसमें जटिल नक्काशी और अलंकृत सजावट हैं. सुबह 10:30 से 11:30 बजे के बीच लाल महल का दौरा करें, जब सुबह की नरम रोशनी में इसकी सुंदरता की सराहना कर सकें.",
+      "audio_file": "/Users/chaitanya/Documents/travel_ai_project/travel_ai/cache/place.detail.output/lal_mahal_hi.mp3",
+      "audio_url": "/cache/place.detail.output/lal_mahal_hi.mp3"
+    }
+  },
+  "created_at": "2026-02-22T17:56:46.040285Z"
+}
